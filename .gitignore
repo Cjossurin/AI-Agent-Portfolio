@@ -94,6 +94,7 @@ chucky-persona-bot/Chucky AI/Reference Library/**/*.gif
 # Proprietary prompt/knowledge corpora (private IP)
 **/Agent RAGs/
 **/Metaprompt
+**/prompt_templates.py
 alita-social-agent/Alita/faceless_video_prompts/
 alita-social-agent/Alita/image_generation_prompts/
 alita-social-agent/Alita/prompts/
