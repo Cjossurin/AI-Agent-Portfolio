@@ -80,6 +80,17 @@ storage/
 temp/
 voice_profiles/
 
+# Chucky — private reference/generated media (keep local only)
+chucky-persona-bot/Chucky AI/assets/
+chucky-persona-bot/Chucky AI/out/
+chucky-persona-bot/Chucky AI/remotion-vhs/public/assets/
+chucky-persona-bot/Chucky AI/remotion-vhs/out/
+chucky-persona-bot/Chucky AI/Reference Library/**/*.png
+chucky-persona-bot/Chucky AI/Reference Library/**/*.jpg
+chucky-persona-bot/Chucky AI/Reference Library/**/*.jpeg
+chucky-persona-bot/Chucky AI/Reference Library/**/*.webp
+chucky-persona-bot/Chucky AI/Reference Library/**/*.gif
+
 # -----------------------------------------------------------------------------
 # Generated Media Artifacts (AI-generated output — do not commit)
 # -----------------------------------------------------------------------------
