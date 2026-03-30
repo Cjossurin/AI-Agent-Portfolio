@@ -1,0 +1,10 @@
+google-genai
+python-dotenv
+anthropic
+elevenlabs
+fal-client
+requests
+openai
+mutagen
+Pillow
+streamlit
