@@ -1,0 +1,113 @@
+# =============================================================================
+# AI Agent Ecosystem — Consolidated Production Requirements
+# =============================================================================
+#
+# This file consolidates the production dependencies required across all three
+# agents (Alita, Chucky, Jergen). Version floors/pins preserve known working
+# constraints from the individual projects.
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# AI / LLM
+# -----------------------------------------------------------------------------
+anthropic>=0.39.0               # [A][C][J] — Core LLM client; Jergen sets floor at 0.39.0
+openai                          # [A][C]   — DALL-E 3 image gen, OpenAI Whisper (Chucky)
+google-genai                    # [C]      — Google Gemini for paranormal research
+
+# -----------------------------------------------------------------------------
+# Web Framework
+# -----------------------------------------------------------------------------
+fastapi                         # [A] — REST API + WebSocket server (client portal)
+uvicorn                         # [A] — ASGI server for FastAPI
+python-multipart                # [A] — Multipart form data handling (file uploads)
+streamlit                       # [C] — Web UI for Chucky pipeline
+
+# -----------------------------------------------------------------------------
+# HTTP Clients
+# -----------------------------------------------------------------------------
+httpx                           # [A] — Async HTTP client (primary)
+aiohttp                         # [A] — Async HTTP client (secondary / streaming)
+requests                        # [A][C] — Synchronous HTTP client
+
+# -----------------------------------------------------------------------------
+# Databases & Vector Stores
+# -----------------------------------------------------------------------------
+qdrant-client                   # [A] — Cloud vector DB (Alita RAG, 15 knowledge bases)
+sqlalchemy                      # [A] — ORM for relational DB (PostgreSQL)
+psycopg2-binary                 # [A] — PostgreSQL driver
+chromadb>=0.5.0                 # [J] — Local persistent vector DB (Jergen FCRA RAG)
+
+# -----------------------------------------------------------------------------
+# Document Processing
+# -----------------------------------------------------------------------------
+pypdf                           # [A] — PDF reading (Alita knowledge ingestion)
+pdfplumber>=0.11.0              # [J] — Structured PDF text extraction (credit reports)
+python-docx>=1.1.0              # [A][J] — DOCX creation; Jergen sets floor at 1.1.0
+docx2pdf>=0.1.8                 # [J] — DOCX → PDF via Microsoft Word COM automation
+beautifulsoup4                  # [A] — HTML parsing (market intelligence scraping)
+lxml                            # [A] — XML/HTML parser backend
+jellyfish>=0.9.0                # [J] — Jaro-Winkler fuzzy string matching (creditor names)
+
+# -----------------------------------------------------------------------------
+# Media Processing
+# -----------------------------------------------------------------------------
+Pillow                          # [A][C] — Image processing
+numpy                           # [A]    — Numerical computing (image/video pipelines)
+imageio-ffmpeg                  # [A]    — FFmpeg bindings for video assembly
+mutagen                         # [C]    — Audio metadata extraction (MP3 duration)
+fal-client                      # [C]    — fal.ai SDK (Kling video, Flux image gen)
+elevenlabs                      # [A][C] — AI voiceover (narration + Alita video)
+
+# -----------------------------------------------------------------------------
+# Social Media & Publishing APIs
+# -----------------------------------------------------------------------------
+newsapi-python==0.2.7           # [A] — News aggregation / trend intelligence (pinned)
+google-api-python-client==2.108.0  # [A] — YouTube Analytics + Gmail API (pinned)
+tavily-python==0.3.5            # [A] — Competitive research & market intelligence (pinned)
+
+# -----------------------------------------------------------------------------
+# Email & SMS
+# -----------------------------------------------------------------------------
+resend>=0.7.0                   # [A] — Transactional & bulk email campaigns
+twilio>=8.0.0                   # [A] — SMS alerts, OTP, escalation notifications
+
+# -----------------------------------------------------------------------------
+# Google Auth (OAuth + Gmail IMAP/SMTP)
+# -----------------------------------------------------------------------------
+google-auth>=2.22.0             # [A] — Google OAuth2 core
+google-auth-oauthlib>=1.1.0     # [A] — OAuth flow helpers
+google-auth-httplib2>=0.1.1     # [A] — HTTP transport adapter for google-auth
+
+# -----------------------------------------------------------------------------
+# Authentication & Security
+# -----------------------------------------------------------------------------
+python-jose[cryptography]>=3.3.0    # [A] — JWT token generation and validation
+passlib[bcrypt]>=1.7.4              # [A] — Password hashing framework
+bcrypt==4.0.1                       # [A] — Pinned for passlib[bcrypt] ABI compatibility
+cryptography                        # [A] — Cryptographic primitives (TLS, signing)
+itsdangerous>=2.1.0                 # [A] — Signed cookies and time-limited tokens
+pyotp>=2.9.0                        # [A] — TOTP 2FA
+qrcode[pil]>=7.4.0                  # [A] — QR code generation (2FA setup screen)
+webauthn>=2.0.0                     # [A] — WebAuthn passkey support
+
+# -----------------------------------------------------------------------------
+# Task Scheduling
+# -----------------------------------------------------------------------------
+apscheduler>=3.10.0             # [A] — Background task scheduling (posting, polling)
+
+# -----------------------------------------------------------------------------
+# Payments
+# -----------------------------------------------------------------------------
+stripe>=7.0.0                   # [A] — Billing and subscription management
+
+# -----------------------------------------------------------------------------
+# Data Validation & Serialization
+# -----------------------------------------------------------------------------
+pydantic>=2.0.0                 # [A][J] — Data models and schema validation; Jergen sets floor at 2.0.0
+
+# -----------------------------------------------------------------------------
+# Utilities
+# -----------------------------------------------------------------------------
+python-dotenv>=1.0.0            # [A][C][J] — .env loading; Jergen sets floor at 1.0.0
+dnspython>=2.4.0                # [A]       — DNS resolution (email deliverability checks)
+pytz>=2024.1                    # [A]       — Timezone handling (multi-client scheduling)

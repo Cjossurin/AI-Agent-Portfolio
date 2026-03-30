@@ -1,0 +1,158 @@
+# =============================================================================
+# AI Agent Ecosystem — Root .gitignore
+# Covers: alita-social-agent | chucky-persona-bot | jergen-credit-ai
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# Python
+# -----------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+MANIFEST
+
+# -----------------------------------------------------------------------------
+# Environment Variables & Secrets  ← NEVER COMMIT THESE
+# -----------------------------------------------------------------------------
+.env
+.env.*
+*.env
+.env.local
+.env.development
+.env.staging
+.env.production
+.env.test
+
+# API key files & credential stores
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+secrets.json
+credentials.json
+service_account.json
+token.json
+token.pickle
+oauth_token.json
+oauth_creds.json
+*_secrets.*
+*_credentials.*
+api_keys.*
+gcp_credentials.json
+firebase_credentials.json
+
+# -----------------------------------------------------------------------------
+# Virtual Environments
+# -----------------------------------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+.conda/
+conda-env/
+.python-version
+
+# -----------------------------------------------------------------------------
+# Project-Specific Sensitive Directories
+# -----------------------------------------------------------------------------
+
+# Jergen — Client PII (SSNs, credit data) — NEVER commit
+Dispute Letters/
+Input Reports/
+
+# Jergen — Locally generated vector index & immutable audit log
+chroma_db/
+audit_logs/
+
+# Alita — Runtime logs, session storage, generated media temp files
+logs/
+storage/
+temp/
+voice_profiles/
+
+# -----------------------------------------------------------------------------
+# Generated Media Artifacts (AI-generated output — do not commit)
+# -----------------------------------------------------------------------------
+*.mp4
+*.mp3
+*.wav
+*.mkv
+*.mov
+
+# -----------------------------------------------------------------------------
+# Node / Remotion (Chucky uses Remotion for video composition)
+# -----------------------------------------------------------------------------
+node_modules/
+.next/
+out/
+.npm
+*.tsbuildinfo
+
+# -----------------------------------------------------------------------------
+# IDEs & Editors
+# -----------------------------------------------------------------------------
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# -----------------------------------------------------------------------------
+# OS Artifacts
+# -----------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# -----------------------------------------------------------------------------
+# Databases & Persisted Runtime State
+# -----------------------------------------------------------------------------
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+
+# -----------------------------------------------------------------------------
+# Test & Coverage Artifacts
+# -----------------------------------------------------------------------------
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# -----------------------------------------------------------------------------
+# Misc Build / Package Artifacts
+# -----------------------------------------------------------------------------
+*.log
+*.pid
+*.seed
+*.pid.lock
+.cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.ruff_cache/
