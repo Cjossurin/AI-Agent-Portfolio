@@ -1,0 +1,780 @@
+{
+  "caseId": "the_devil_s_footprints_of_devon",
+  "sequences": [
+    {
+      "blockId": 1,
+      "motionType": "ken_burns_zoom_in",
+      "imagePath": "assets/case_the_devil_s_footprints_of_devon/1_image.jpg",
+      "audioPath": "assets/case_the_devil_s_footprints_of_devon/1_audio.mp3",
+      "audioDurationSec": 14.99
+    },
+    {
+      "blockId": 2,
+      "motionType": "ken_burns_pan_right",
+      "imagePath": "assets/case_the_devil_s_footprints_of_devon/2_image.jpg",
+      "audioPath": "assets/case_the_devil_s_footprints_of_devon/2_audio.mp3",
+      "audioDurationSec": 10.34
+    },
+    {
+      "blockId": 3,
+      "motionType": "ken_burns_slow_push",
+      "imagePath": "assets/case_the_devil_s_footprints_of_devon/3_image.jpg",
+      "audioPath": "assets/case_the_devil_s_footprints_of_devon/3_audio.mp3",
+      "audioDurationSec": 11.42
+    },
+    {
+      "blockId": 4,
+      "motionType": "kling_i2v_scare",
+      "imagePath": "assets/case_the_devil_s_footprints_of_devon/4_image.jpg",
+      "audioPath": "assets/case_the_devil_s_footprints_of_devon/4_audio.mp3",
+      "videoPath": "assets/case_the_devil_s_footprints_of_devon/4_scare.mp4",
+      "audioDurationSec": 11.42
+    }
+  ],
+  "ambientLayers": {
+    "droneAudio": "assets/shared/drone_audio.mp3",
+    "vhsStatic": "assets/shared/vhs_static.mp3"
+  },
+  "captions": [
+    {
+      "blockId": 1,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Department",
+              "start": 0.0,
+              "end": 0.64
+            },
+            {
+              "word": "of",
+              "start": 0.64,
+              "end": 0.9
+            },
+            {
+              "word": "the",
+              "start": 0.9,
+              "end": 1.6
+            }
+          ],
+          "start": 0.0,
+          "end": 1.6
+        },
+        {
+          "words": [
+            {
+              "word": "Unknown",
+              "start": 1.6,
+              "end": 1.6
+            },
+            {
+              "word": "Case",
+              "start": 2.72,
+              "end": 2.86
+            },
+            {
+              "word": "File",
+              "start": 2.86,
+              "end": 3.2
+            }
+          ],
+          "start": 1.6,
+          "end": 3.2
+        },
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 3.92,
+              "end": 4.1
+            },
+            {
+              "word": "Devil's",
+              "start": 4.1,
+              "end": 4.6
+            },
+            {
+              "word": "Footprints",
+              "start": 4.6,
+              "end": 5.0
+            }
+          ],
+          "start": 3.92,
+          "end": 5.0
+        },
+        {
+          "words": [
+            {
+              "word": "of",
+              "start": 5.0,
+              "end": 5.46
+            },
+            {
+              "word": "Devon",
+              "start": 5.46,
+              "end": 5.86
+            },
+            {
+              "word": "February",
+              "start": 6.94,
+              "end": 7.28
+            }
+          ],
+          "start": 5.0,
+          "end": 7.28
+        },
+        {
+          "words": [
+            {
+              "word": "9th",
+              "start": 7.28,
+              "end": 8.18
+            },
+            {
+              "word": "1855",
+              "start": 8.18,
+              "end": 9.38
+            },
+            {
+              "word": "four",
+              "start": 9.88,
+              "end": 10.1
+            }
+          ],
+          "start": 7.28,
+          "end": 10.1
+        },
+        {
+          "words": [
+            {
+              "word": "inch",
+              "start": 10.1,
+              "end": 10.3
+            },
+            {
+              "word": "hoof",
+              "start": 10.3,
+              "end": 10.58
+            },
+            {
+              "word": "prints",
+              "start": 10.58,
+              "end": 10.84
+            }
+          ],
+          "start": 10.1,
+          "end": 10.84
+        },
+        {
+          "words": [
+            {
+              "word": "appeared",
+              "start": 10.84,
+              "end": 11.2
+            },
+            {
+              "word": "across",
+              "start": 11.2,
+              "end": 11.6
+            },
+            {
+              "word": "40",
+              "start": 11.6,
+              "end": 11.98
+            }
+          ],
+          "start": 10.84,
+          "end": 11.98
+        },
+        {
+          "words": [
+            {
+              "word": "miles",
+              "start": 11.98,
+              "end": 12.38
+            },
+            {
+              "word": "of",
+              "start": 12.38,
+              "end": 12.66
+            },
+            {
+              "word": "snow",
+              "start": 12.66,
+              "end": 12.88
+            }
+          ],
+          "start": 11.98,
+          "end": 12.88
+        },
+        {
+          "words": [
+            {
+              "word": "covered",
+              "start": 12.88,
+              "end": 13.2
+            },
+            {
+              "word": "English",
+              "start": 13.2,
+              "end": 13.62
+            },
+            {
+              "word": "countryside",
+              "start": 13.62,
+              "end": 14.08
+            }
+          ],
+          "start": 12.88,
+          "end": 14.08
+        }
+      ]
+    },
+    {
+      "blockId": 2,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 0.0,
+              "end": 0.24
+            },
+            {
+              "word": "tracks",
+              "start": 0.24,
+              "end": 0.6
+            },
+            {
+              "word": "scaled",
+              "start": 0.6,
+              "end": 1.16
+            }
+          ],
+          "start": 0.0,
+          "end": 1.16
+        },
+        {
+          "words": [
+            {
+              "word": "vertical",
+              "start": 1.16,
+              "end": 1.58
+            },
+            {
+              "word": "walls",
+              "start": 1.58,
+              "end": 2.14
+            },
+            {
+              "word": "they",
+              "start": 2.58,
+              "end": 2.78
+            }
+          ],
+          "start": 1.16,
+          "end": 2.78
+        },
+        {
+          "words": [
+            {
+              "word": "crossed",
+              "start": 2.78,
+              "end": 3.02
+            },
+            {
+              "word": "rooftops",
+              "start": 3.02,
+              "end": 3.68
+            },
+            {
+              "word": "they",
+              "start": 4.06,
+              "end": 4.24
+            }
+          ],
+          "start": 2.78,
+          "end": 4.24
+        },
+        {
+          "words": [
+            {
+              "word": "passed",
+              "start": 4.24,
+              "end": 4.54
+            },
+            {
+              "word": "through",
+              "start": 4.54,
+              "end": 4.92
+            },
+            {
+              "word": "openings",
+              "start": 4.92,
+              "end": 5.26
+            }
+          ],
+          "start": 4.24,
+          "end": 5.26
+        },
+        {
+          "words": [
+            {
+              "word": "too",
+              "start": 5.26,
+              "end": 5.72
+            },
+            {
+              "word": "small",
+              "start": 5.72,
+              "end": 5.96
+            },
+            {
+              "word": "for",
+              "start": 5.96,
+              "end": 6.26
+            }
+          ],
+          "start": 5.26,
+          "end": 6.26
+        },
+        {
+          "words": [
+            {
+              "word": "any",
+              "start": 6.26,
+              "end": 6.52
+            },
+            {
+              "word": "earthbound",
+              "start": 6.52,
+              "end": 7.1
+            },
+            {
+              "word": "creature",
+              "start": 7.1,
+              "end": 7.52
+            }
+          ],
+          "start": 6.26,
+          "end": 7.52
+        },
+        {
+          "words": [
+            {
+              "word": "Physics",
+              "start": 8.22,
+              "end": 8.44
+            },
+            {
+              "word": "could",
+              "start": 8.44,
+              "end": 8.72
+            },
+            {
+              "word": "not",
+              "start": 8.72,
+              "end": 8.98
+            }
+          ],
+          "start": 8.22,
+          "end": 8.98
+        },
+        {
+          "words": [
+            {
+              "word": "explain",
+              "start": 8.98,
+              "end": 9.32
+            },
+            {
+              "word": "their",
+              "start": 9.32,
+              "end": 9.62
+            },
+            {
+              "word": "path",
+              "start": 9.62,
+              "end": 9.98
+            }
+          ],
+          "start": 8.98,
+          "end": 9.98
+        }
+      ]
+    },
+    {
+      "blockId": 3,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Reverend",
+              "start": 0.0,
+              "end": 0.54
+            },
+            {
+              "word": "Ellicombe",
+              "start": 0.54,
+              "end": 1.08
+            },
+            {
+              "word": "documented",
+              "start": 1.08,
+              "end": 1.64
+            }
+          ],
+          "start": 0.0,
+          "end": 1.64
+        },
+        {
+          "words": [
+            {
+              "word": "their",
+              "start": 1.64,
+              "end": 1.98
+            },
+            {
+              "word": "pattern",
+              "start": 1.98,
+              "end": 2.32
+            },
+            {
+              "word": "single",
+              "start": 3.0,
+              "end": 3.18
+            }
+          ],
+          "start": 1.64,
+          "end": 3.18
+        },
+        {
+          "words": [
+            {
+              "word": "file",
+              "start": 3.18,
+              "end": 3.64
+            },
+            {
+              "word": "eight",
+              "start": 4.1,
+              "end": 4.22
+            },
+            {
+              "word": "inch",
+              "start": 4.22,
+              "end": 4.42
+            }
+          ],
+          "start": 3.18,
+          "end": 4.42
+        },
+        {
+          "words": [
+            {
+              "word": "stride",
+              "start": 4.42,
+              "end": 5.3
+            },
+            {
+              "word": "The",
+              "start": 5.32,
+              "end": 5.54
+            },
+            {
+              "word": "entity",
+              "start": 5.54,
+              "end": 5.86
+            }
+          ],
+          "start": 4.42,
+          "end": 5.86
+        },
+        {
+          "words": [
+            {
+              "word": "walked",
+              "start": 5.86,
+              "end": 6.26
+            },
+            {
+              "word": "upright",
+              "start": 6.26,
+              "end": 6.72
+            },
+            {
+              "word": "like",
+              "start": 6.72,
+              "end": 7.1
+            }
+          ],
+          "start": 5.86,
+          "end": 7.1
+        },
+        {
+          "words": [
+            {
+              "word": "a",
+              "start": 7.1,
+              "end": 7.64
+            },
+            {
+              "word": "man",
+              "start": 7.64,
+              "end": 7.64
+            },
+            {
+              "word": "but",
+              "start": 8.36,
+              "end": 8.5
+            }
+          ],
+          "start": 7.1,
+          "end": 8.5
+        },
+        {
+          "words": [
+            {
+              "word": "no",
+              "start": 8.5,
+              "end": 8.82
+            },
+            {
+              "word": "man",
+              "start": 8.82,
+              "end": 9.1
+            },
+            {
+              "word": "leaves",
+              "start": 9.1,
+              "end": 9.54
+            }
+          ],
+          "start": 8.5,
+          "end": 9.54
+        },
+        {
+          "words": [
+            {
+              "word": "cloven",
+              "start": 9.54,
+              "end": 10.02
+            },
+            {
+              "word": "hooves",
+              "start": 10.02,
+              "end": 10.42
+            }
+          ],
+          "start": 9.54,
+          "end": 10.42
+        }
+      ]
+    },
+    {
+      "blockId": 4,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 0.0,
+              "end": 0.22
+            },
+            {
+              "word": "tracks",
+              "start": 0.22,
+              "end": 0.5
+            },
+            {
+              "word": "ended",
+              "start": 0.5,
+              "end": 0.82
+            }
+          ],
+          "start": 0.0,
+          "end": 0.82
+        },
+        {
+          "words": [
+            {
+              "word": "abruptly",
+              "start": 0.82,
+              "end": 1.24
+            },
+            {
+              "word": "at",
+              "start": 1.24,
+              "end": 1.56
+            },
+            {
+              "word": "a",
+              "start": 1.56,
+              "end": 1.72
+            }
+          ],
+          "start": 0.82,
+          "end": 1.72
+        },
+        {
+          "words": [
+            {
+              "word": "frozen",
+              "start": 1.72,
+              "end": 1.98
+            },
+            {
+              "word": "brook",
+              "start": 1.98,
+              "end": 2.38
+            },
+            {
+              "word": "Local",
+              "start": 3.18,
+              "end": 3.18
+            }
+          ],
+          "start": 1.72,
+          "end": 3.18
+        },
+        {
+          "words": [
+            {
+              "word": "authorities",
+              "start": 3.18,
+              "end": 3.66
+            },
+            {
+              "word": "found",
+              "start": 3.66,
+              "end": 4.0
+            },
+            {
+              "word": "no",
+              "start": 4.0,
+              "end": 4.34
+            }
+          ],
+          "start": 3.18,
+          "end": 4.34
+        },
+        {
+          "words": [
+            {
+              "word": "trace",
+              "start": 4.34,
+              "end": 4.56
+            },
+            {
+              "word": "of",
+              "start": 4.56,
+              "end": 4.72
+            },
+            {
+              "word": "the",
+              "start": 4.72,
+              "end": 4.98
+            }
+          ],
+          "start": 4.34,
+          "end": 4.98
+        },
+        {
+          "words": [
+            {
+              "word": "entity",
+              "start": 4.98,
+              "end": 5.28
+            },
+            {
+              "word": "Yet",
+              "start": 5.86,
+              "end": 6.1
+            },
+            {
+              "word": "similar",
+              "start": 6.1,
+              "end": 6.5
+            }
+          ],
+          "start": 4.98,
+          "end": 6.5
+        },
+        {
+          "words": [
+            {
+              "word": "prints",
+              "start": 6.5,
+              "end": 6.88
+            },
+            {
+              "word": "continue",
+              "start": 6.88,
+              "end": 7.42
+            },
+            {
+              "word": "to",
+              "start": 7.42,
+              "end": 8.08
+            }
+          ],
+          "start": 6.5,
+          "end": 8.08
+        },
+        {
+          "words": [
+            {
+              "word": "appear",
+              "start": 8.08,
+              "end": 8.08
+            },
+            {
+              "word": "across",
+              "start": 8.08,
+              "end": 8.52
+            },
+            {
+              "word": "Devon",
+              "start": 8.52,
+              "end": 8.9
+            }
+          ],
+          "start": 8.08,
+          "end": 8.9
+        },
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 9.5,
+              "end": 9.64
+            },
+            {
+              "word": "case",
+              "start": 9.64,
+              "end": 9.94
+            },
+            {
+              "word": "remains",
+              "start": 9.94,
+              "end": 10.54
+            }
+          ],
+          "start": 9.5,
+          "end": 10.54
+        },
+        {
+          "words": [
+            {
+              "word": "open",
+              "start": 10.54,
+              "end": 10.94
+            }
+          ],
+          "start": 10.54,
+          "end": 10.94
+        }
+      ]
+    }
+  ]
+}

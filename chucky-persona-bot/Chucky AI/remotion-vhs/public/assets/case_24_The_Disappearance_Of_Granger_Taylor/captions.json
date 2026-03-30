@@ -1,0 +1,987 @@
+[
+  {
+    "blockId": 1,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "Granger",
+            "start": 0.0,
+            "end": 0.42
+          },
+          {
+            "word": "Taylor",
+            "start": 0.42,
+            "end": 0.82
+          },
+          {
+            "word": "vanished",
+            "start": 0.82,
+            "end": 1.22
+          }
+        ],
+        "start": 0.0,
+        "end": 1.22
+      },
+      {
+        "words": [
+          {
+            "word": "from",
+            "start": 1.22,
+            "end": 1.54
+          },
+          {
+            "word": "Duncan",
+            "start": 1.54,
+            "end": 1.88
+          }
+        ],
+        "start": 1.22,
+        "end": 1.88
+      },
+      {
+        "words": [
+          {
+            "word": "British",
+            "start": 2.48,
+            "end": 2.52
+          },
+          {
+            "word": "Columbia",
+            "start": 2.52,
+            "end": 2.96
+          },
+          {
+            "word": "in",
+            "start": 2.96,
+            "end": 3.22
+          }
+        ],
+        "start": 2.48,
+        "end": 3.22
+      },
+      {
+        "words": [
+          {
+            "word": "1980",
+            "start": 3.22,
+            "end": 3.92
+          }
+        ],
+        "start": 3.22,
+        "end": 3.92
+      },
+      {
+        "words": [
+          {
+            "word": "leaving",
+            "start": 4.44,
+            "end": 4.52
+          },
+          {
+            "word": "behind",
+            "start": 4.52,
+            "end": 4.96
+          },
+          {
+            "word": "only",
+            "start": 4.96,
+            "end": 5.2
+          }
+        ],
+        "start": 4.44,
+        "end": 5.2
+      },
+      {
+        "words": [
+          {
+            "word": "a",
+            "start": 5.2,
+            "end": 5.62
+          },
+          {
+            "word": "note",
+            "start": 5.62,
+            "end": 5.62
+          },
+          {
+            "word": "about",
+            "start": 5.62,
+            "end": 5.94
+          }
+        ],
+        "start": 5.2,
+        "end": 5.94
+      },
+      {
+        "words": [
+          {
+            "word": "traveling",
+            "start": 5.94,
+            "end": 6.3
+          },
+          {
+            "word": "with",
+            "start": 6.3,
+            "end": 6.68
+          },
+          {
+            "word": "aliens",
+            "start": 6.68,
+            "end": 7.06
+          }
+        ],
+        "start": 5.94,
+        "end": 7.06
+      },
+      {
+        "words": [
+          {
+            "word": "What",
+            "start": 7.7,
+            "end": 7.88
+          },
+          {
+            "word": "investigators",
+            "start": 7.88,
+            "end": 8.48
+          },
+          {
+            "word": "found",
+            "start": 8.48,
+            "end": 8.92
+          }
+        ],
+        "start": 7.7,
+        "end": 8.92
+      },
+      {
+        "words": [
+          {
+            "word": "in",
+            "start": 8.92,
+            "end": 9.1
+          },
+          {
+            "word": "his",
+            "start": 9.1,
+            "end": 9.32
+          },
+          {
+            "word": "workshop",
+            "start": 9.32,
+            "end": 9.78
+          }
+        ],
+        "start": 8.92,
+        "end": 9.78
+      },
+      {
+        "words": [
+          {
+            "word": "changed",
+            "start": 9.78,
+            "end": 10.48
+          },
+          {
+            "word": "everything",
+            "start": 10.48,
+            "end": 11.02
+          },
+          {
+            "word": "they",
+            "start": 11.02,
+            "end": 11.4
+          }
+        ],
+        "start": 9.78,
+        "end": 11.4
+      },
+      {
+        "words": [
+          {
+            "word": "thought",
+            "start": 11.4,
+            "end": 11.54
+          },
+          {
+            "word": "they",
+            "start": 11.54,
+            "end": 11.9
+          },
+          {
+            "word": "knew",
+            "start": 11.9,
+            "end": 11.96
+          }
+        ],
+        "start": 11.4,
+        "end": 11.96
+      },
+      {
+        "words": [
+          {
+            "word": "about",
+            "start": 11.96,
+            "end": 12.24
+          },
+          {
+            "word": "his",
+            "start": 12.24,
+            "end": 12.52
+          },
+          {
+            "word": "disappearance",
+            "start": 12.52,
+            "end": 12.92
+          }
+        ],
+        "start": 11.96,
+        "end": 12.92
+      }
+    ]
+  },
+  {
+    "blockId": 2,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "Taylor",
+            "start": 0.0,
+            "end": 0.34
+          },
+          {
+            "word": "had",
+            "start": 0.34,
+            "end": 0.74
+          },
+          {
+            "word": "constructed",
+            "start": 0.74,
+            "end": 1.02
+          }
+        ],
+        "start": 0.0,
+        "end": 1.02
+      },
+      {
+        "words": [
+          {
+            "word": "a",
+            "start": 1.02,
+            "end": 1.32
+          },
+          {
+            "word": "spacecraft",
+            "start": 1.32,
+            "end": 1.64
+          },
+          {
+            "word": "in",
+            "start": 1.64,
+            "end": 2.04
+          }
+        ],
+        "start": 1.02,
+        "end": 2.04
+      },
+      {
+        "words": [
+          {
+            "word": "his",
+            "start": 2.04,
+            "end": 2.28
+          },
+          {
+            "word": "backyard",
+            "start": 2.28,
+            "end": 2.82
+          }
+        ],
+        "start": 2.04,
+        "end": 2.82
+      },
+      {
+        "words": [
+          {
+            "word": "Not",
+            "start": 3.58,
+            "end": 3.74
+          },
+          {
+            "word": "a",
+            "start": 3.74,
+            "end": 4.08
+          },
+          {
+            "word": "mock",
+            "start": 4.08,
+            "end": 4.14
+          }
+        ],
+        "start": 3.58,
+        "end": 4.14
+      },
+      {
+        "words": [
+          {
+            "word": "up",
+            "start": 4.14,
+            "end": 4.38
+          },
+          {
+            "word": "or",
+            "start": 4.38,
+            "end": 4.64
+          },
+          {
+            "word": "a",
+            "start": 4.64,
+            "end": 5.14
+          }
+        ],
+        "start": 4.14,
+        "end": 5.14
+      },
+      {
+        "words": [
+          {
+            "word": "prop",
+            "start": 5.14,
+            "end": 5.22
+          },
+          {
+            "word": "but",
+            "start": 5.42,
+            "end": 5.84
+          },
+          {
+            "word": "something",
+            "start": 5.84,
+            "end": 6.14
+          }
+        ],
+        "start": 5.14,
+        "end": 6.14
+      },
+      {
+        "words": [
+          {
+            "word": "with",
+            "start": 6.14,
+            "end": 6.52
+          },
+          {
+            "word": "components",
+            "start": 6.52,
+            "end": 6.88
+          },
+          {
+            "word": "that",
+            "start": 6.88,
+            "end": 7.26
+          }
+        ],
+        "start": 6.14,
+        "end": 7.26
+      },
+      {
+        "words": [
+          {
+            "word": "shouldn't",
+            "start": 7.26,
+            "end": 7.58
+          },
+          {
+            "word": "exist",
+            "start": 7.58,
+            "end": 8.1
+          }
+        ],
+        "start": 7.26,
+        "end": 8.1
+      },
+      {
+        "words": [
+          {
+            "word": "The",
+            "start": 8.84,
+            "end": 9.1
+          },
+          {
+            "word": "metal",
+            "start": 9.1,
+            "end": 9.32
+          },
+          {
+            "word": "alloys",
+            "start": 9.32,
+            "end": 9.84
+          }
+        ],
+        "start": 8.84,
+        "end": 9.84
+      },
+      {
+        "words": [
+          {
+            "word": "defied",
+            "start": 9.84,
+            "end": 10.42
+          },
+          {
+            "word": "analysis",
+            "start": 10.42,
+            "end": 11.08
+          }
+        ],
+        "start": 9.84,
+        "end": 11.08
+      },
+      {
+        "words": [
+          {
+            "word": "and",
+            "start": 11.52,
+            "end": 11.62
+          },
+          {
+            "word": "the",
+            "start": 11.62,
+            "end": 12.24
+          },
+          {
+            "word": "propulsion",
+            "start": 12.24,
+            "end": 12.24
+          }
+        ],
+        "start": 11.52,
+        "end": 12.24
+      },
+      {
+        "words": [
+          {
+            "word": "system",
+            "start": 12.24,
+            "end": 12.74
+          },
+          {
+            "word": "violated",
+            "start": 12.74,
+            "end": 13.28
+          },
+          {
+            "word": "known",
+            "start": 13.28,
+            "end": 13.7
+          }
+        ],
+        "start": 12.24,
+        "end": 13.7
+      },
+      {
+        "words": [
+          {
+            "word": "physics",
+            "start": 13.7,
+            "end": 14.08
+          }
+        ],
+        "start": 13.7,
+        "end": 14.08
+      }
+    ]
+  },
+  {
+    "blockId": 3,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "On",
+            "start": 0.0,
+            "end": 0.22
+          },
+          {
+            "word": "November",
+            "start": 0.22,
+            "end": 0.48
+          },
+          {
+            "word": "29th",
+            "start": 0.48,
+            "end": 1.62
+          }
+        ],
+        "start": 0.0,
+        "end": 1.62
+      },
+      {
+        "words": [
+          {
+            "word": "both",
+            "start": 1.62,
+            "end": 1.82
+          },
+          {
+            "word": "Taylor",
+            "start": 1.82,
+            "end": 2.12
+          },
+          {
+            "word": "and",
+            "start": 2.12,
+            "end": 2.36
+          }
+        ],
+        "start": 1.62,
+        "end": 2.36
+      },
+      {
+        "words": [
+          {
+            "word": "his",
+            "start": 2.36,
+            "end": 2.6
+          },
+          {
+            "word": "craft",
+            "start": 2.6,
+            "end": 2.94
+          },
+          {
+            "word": "disappeared",
+            "start": 2.94,
+            "end": 3.6
+          }
+        ],
+        "start": 2.36,
+        "end": 3.6
+      },
+      {
+        "words": [
+          {
+            "word": "during",
+            "start": 3.6,
+            "end": 3.94
+          },
+          {
+            "word": "a",
+            "start": 3.94,
+            "end": 4.56
+          },
+          {
+            "word": "violent",
+            "start": 4.56,
+            "end": 4.56
+          }
+        ],
+        "start": 3.6,
+        "end": 4.56
+      },
+      {
+        "words": [
+          {
+            "word": "storm",
+            "start": 4.56,
+            "end": 5.06
+          }
+        ],
+        "start": 4.56,
+        "end": 5.06
+      },
+      {
+        "words": [
+          {
+            "word": "No",
+            "start": 5.58,
+            "end": 5.8
+          },
+          {
+            "word": "debris",
+            "start": 5.8,
+            "end": 6.08
+          },
+          {
+            "word": "was",
+            "start": 6.08,
+            "end": 6.52
+          }
+        ],
+        "start": 5.58,
+        "end": 6.52
+      },
+      {
+        "words": [
+          {
+            "word": "ever",
+            "start": 6.52,
+            "end": 6.84
+          },
+          {
+            "word": "found",
+            "start": 6.84,
+            "end": 7.2
+          }
+        ],
+        "start": 6.52,
+        "end": 7.2
+      },
+      {
+        "words": [
+          {
+            "word": "But",
+            "start": 7.88,
+            "end": 8.08
+          },
+          {
+            "word": "three",
+            "start": 8.08,
+            "end": 8.36
+          },
+          {
+            "word": "months",
+            "start": 8.36,
+            "end": 8.52
+          }
+        ],
+        "start": 7.88,
+        "end": 8.52
+      },
+      {
+        "words": [
+          {
+            "word": "later",
+            "start": 8.52,
+            "end": 8.96
+          },
+          {
+            "word": "radio",
+            "start": 9.22,
+            "end": 9.48
+          },
+          {
+            "word": "telescopes",
+            "start": 9.48,
+            "end": 10.02
+          }
+        ],
+        "start": 8.52,
+        "end": 10.02
+      },
+      {
+        "words": [
+          {
+            "word": "detected",
+            "start": 10.02,
+            "end": 10.5
+          },
+          {
+            "word": "his",
+            "start": 10.5,
+            "end": 10.86
+          },
+          {
+            "word": "voice",
+            "start": 10.86,
+            "end": 11.18
+          }
+        ],
+        "start": 10.02,
+        "end": 11.18
+      },
+      {
+        "words": [
+          {
+            "word": "broadcasting",
+            "start": 11.18,
+            "end": 11.9
+          },
+          {
+            "word": "from",
+            "start": 11.9,
+            "end": 12.28
+          },
+          {
+            "word": "empty",
+            "start": 12.28,
+            "end": 12.56
+          }
+        ],
+        "start": 11.18,
+        "end": 12.56
+      },
+      {
+        "words": [
+          {
+            "word": "space",
+            "start": 12.56,
+            "end": 12.98
+          },
+          {
+            "word": "He",
+            "start": 13.3,
+            "end": 13.48
+          },
+          {
+            "word": "was",
+            "start": 13.48,
+            "end": 13.76
+          }
+        ],
+        "start": 12.56,
+        "end": 13.76
+      },
+      {
+        "words": [
+          {
+            "word": "screaming",
+            "start": 13.76,
+            "end": 14.02
+          }
+        ],
+        "start": 13.76,
+        "end": 14.02
+      }
+    ]
+  },
+  {
+    "blockId": 4,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "The",
+            "start": 0.0,
+            "end": 0.24
+          },
+          {
+            "word": "transmission",
+            "start": 0.24,
+            "end": 0.72
+          },
+          {
+            "word": "was",
+            "start": 0.72,
+            "end": 1.12
+          }
+        ],
+        "start": 0.0,
+        "end": 1.12
+      },
+      {
+        "words": [
+          {
+            "word": "immediately",
+            "start": 1.12,
+            "end": 1.6
+          },
+          {
+            "word": "classified",
+            "start": 1.6,
+            "end": 2.32
+          },
+          {
+            "word": "above",
+            "start": 2.32,
+            "end": 2.78
+          }
+        ],
+        "start": 1.12,
+        "end": 2.78
+      },
+      {
+        "words": [
+          {
+            "word": "top",
+            "start": 2.78,
+            "end": 3.18
+          },
+          {
+            "word": "secret",
+            "start": 3.18,
+            "end": 3.6
+          }
+        ],
+        "start": 2.78,
+        "end": 3.6
+      },
+      {
+        "words": [
+          {
+            "word": "Every",
+            "start": 4.28,
+            "end": 4.48
+          },
+          {
+            "word": "record",
+            "start": 4.48,
+            "end": 4.82
+          },
+          {
+            "word": "of",
+            "start": 4.82,
+            "end": 5.06
+          }
+        ],
+        "start": 4.28,
+        "end": 5.06
+      },
+      {
+        "words": [
+          {
+            "word": "Granger",
+            "start": 5.06,
+            "end": 5.34
+          },
+          {
+            "word": "Taylor",
+            "start": 5.34,
+            "end": 5.76
+          },
+          {
+            "word": "was",
+            "start": 5.76,
+            "end": 6.06
+          }
+        ],
+        "start": 5.06,
+        "end": 6.06
+      },
+      {
+        "words": [
+          {
+            "word": "purged",
+            "start": 6.06,
+            "end": 6.46
+          },
+          {
+            "word": "from",
+            "start": 6.46,
+            "end": 6.76
+          },
+          {
+            "word": "public",
+            "start": 6.76,
+            "end": 7.06
+          }
+        ],
+        "start": 6.06,
+        "end": 7.06
+      },
+      {
+        "words": [
+          {
+            "word": "databases",
+            "start": 7.06,
+            "end": 7.62
+          }
+        ],
+        "start": 7.06,
+        "end": 7.62
+      },
+      {
+        "words": [
+          {
+            "word": "Some",
+            "start": 8.42,
+            "end": 8.58
+          },
+          {
+            "word": "cases",
+            "start": 8.58,
+            "end": 8.9
+          },
+          {
+            "word": "are",
+            "start": 8.9,
+            "end": 9.16
+          }
+        ],
+        "start": 8.42,
+        "end": 9.16
+      },
+      {
+        "words": [
+          {
+            "word": "too",
+            "start": 9.16,
+            "end": 9.52
+          },
+          {
+            "word": "dangerous",
+            "start": 9.52,
+            "end": 9.8
+          },
+          {
+            "word": "even",
+            "start": 9.8,
+            "end": 10.14
+          }
+        ],
+        "start": 9.16,
+        "end": 10.14
+      },
+      {
+        "words": [
+          {
+            "word": "for",
+            "start": 10.14,
+            "end": 10.34
+          },
+          {
+            "word": "the",
+            "start": 10.34,
+            "end": 10.5
+          },
+          {
+            "word": "Department",
+            "start": 10.5,
+            "end": 10.86
+          }
+        ],
+        "start": 10.14,
+        "end": 10.86
+      },
+      {
+        "words": [
+          {
+            "word": "of",
+            "start": 10.86,
+            "end": 11.06
+          },
+          {
+            "word": "the",
+            "start": 11.06,
+            "end": 11.46
+          },
+          {
+            "word": "Unknown",
+            "start": 11.46,
+            "end": 11.58
+          }
+        ],
+        "start": 10.86,
+        "end": 11.58
+      },
+      {
+        "words": [
+          {
+            "word": "to",
+            "start": 11.58,
+            "end": 12.06
+          },
+          {
+            "word": "document",
+            "start": 12.06,
+            "end": 12.2
+          }
+        ],
+        "start": 11.58,
+        "end": 12.2
+      }
+    ]
+  }
+]

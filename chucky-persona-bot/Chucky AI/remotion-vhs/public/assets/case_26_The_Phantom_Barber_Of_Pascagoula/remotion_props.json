@@ -1,0 +1,1048 @@
+{
+  "caseId": "26_The_Phantom_Barber_Of_Pascagoula",
+  "chosenStyle": "dark_comic",
+  "sequences": [
+    {
+      "blockId": 1,
+      "motionType": "ken_burns_slow_push",
+      "imagePath": "assets/case_26_The_Phantom_Barber_Of_Pascagoula/1_image.jpg",
+      "audioPath": "assets/case_26_The_Phantom_Barber_Of_Pascagoula/1_audio.mp3",
+      "audioDurationSec": 12.15
+    },
+    {
+      "blockId": 2,
+      "motionType": "ken_burns_pan_right",
+      "imagePath": "assets/case_26_The_Phantom_Barber_Of_Pascagoula/2_image.jpg",
+      "audioPath": "assets/case_26_The_Phantom_Barber_Of_Pascagoula/2_audio.mp3",
+      "audioDurationSec": 12.8
+    },
+    {
+      "blockId": 3,
+      "motionType": "ken_burns_zoom_in",
+      "imagePath": "assets/case_26_The_Phantom_Barber_Of_Pascagoula/3_image.jpg",
+      "audioPath": "assets/case_26_The_Phantom_Barber_Of_Pascagoula/3_audio.mp3",
+      "audioDurationSec": 11.31
+    },
+    {
+      "blockId": 4,
+      "motionType": "ken_burns_pan_left",
+      "imagePath": "assets/case_26_The_Phantom_Barber_Of_Pascagoula/4_image.jpg",
+      "audioPath": "assets/case_26_The_Phantom_Barber_Of_Pascagoula/4_audio.mp3",
+      "audioDurationSec": 10.95
+    },
+    {
+      "blockId": 5,
+      "motionType": "kling_i2v_scare",
+      "imagePath": "assets/case_26_The_Phantom_Barber_Of_Pascagoula/5_image.jpg",
+      "audioPath": "assets/case_26_The_Phantom_Barber_Of_Pascagoula/5_audio.mp3",
+      "videoPath": "assets/case_26_The_Phantom_Barber_Of_Pascagoula/5_scare.mp4",
+      "audioDurationSec": 9.98
+    }
+  ],
+  "ambientLayers": {
+    "droneAudio": "assets/shared/drone_audio.mp3",
+    "vhsStatic": "assets/shared/vhs_static.mp3",
+    "backgroundMusic": "assets/shared/music/horror_music_01.mp3",
+    "scareStinger": "assets/shared/sfx_scare/scare_hit_03.mp3",
+    "transitionWhoosh": "assets/shared/sfx_transition/dark_whoosh_03.mp3"
+  },
+  "captions": [
+    {
+      "blockId": 1,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Someone",
+              "start": 0.0,
+              "end": 0.42
+            },
+            {
+              "word": "was",
+              "start": 0.42,
+              "end": 0.72
+            },
+            {
+              "word": "cutting",
+              "start": 0.72,
+              "end": 0.94
+            }
+          ],
+          "start": 0.0,
+          "end": 0.94
+        },
+        {
+          "words": [
+            {
+              "word": "hair",
+              "start": 0.94,
+              "end": 1.28
+            },
+            {
+              "word": "from",
+              "start": 1.28,
+              "end": 1.54
+            },
+            {
+              "word": "sleeping",
+              "start": 1.54,
+              "end": 1.84
+            }
+          ],
+          "start": 0.94,
+          "end": 1.84
+        },
+        {
+          "words": [
+            {
+              "word": "victims",
+              "start": 1.84,
+              "end": 2.24
+            },
+            {
+              "word": "in",
+              "start": 2.24,
+              "end": 2.6
+            },
+            {
+              "word": "Pascagoula",
+              "start": 2.6,
+              "end": 3.1
+            }
+          ],
+          "start": 1.84,
+          "end": 3.1
+        },
+        {
+          "words": [
+            {
+              "word": "Mississippi",
+              "start": 3.3,
+              "end": 3.72
+            }
+          ],
+          "start": 3.3,
+          "end": 3.72
+        },
+        {
+          "words": [
+            {
+              "word": "entering",
+              "start": 4.52,
+              "end": 4.7
+            },
+            {
+              "word": "locked",
+              "start": 4.7,
+              "end": 5.1
+            },
+            {
+              "word": "homes",
+              "start": 5.1,
+              "end": 5.52
+            }
+          ],
+          "start": 4.52,
+          "end": 5.52
+        },
+        {
+          "words": [
+            {
+              "word": "without",
+              "start": 5.52,
+              "end": 5.9
+            },
+            {
+              "word": "breaking",
+              "start": 5.9,
+              "end": 6.28
+            },
+            {
+              "word": "in",
+              "start": 6.28,
+              "end": 6.92
+            }
+          ],
+          "start": 5.52,
+          "end": 6.92
+        },
+        {
+          "words": [
+            {
+              "word": "leaving",
+              "start": 7.26,
+              "end": 7.3
+            },
+            {
+              "word": "no",
+              "start": 7.3,
+              "end": 7.74
+            },
+            {
+              "word": "evidence",
+              "start": 7.74,
+              "end": 8.06
+            }
+          ],
+          "start": 7.26,
+          "end": 8.06
+        },
+        {
+          "words": [
+            {
+              "word": "except",
+              "start": 8.06,
+              "end": 8.54
+            },
+            {
+              "word": "missing",
+              "start": 8.54,
+              "end": 8.88
+            },
+            {
+              "word": "strands",
+              "start": 8.88,
+              "end": 9.52
+            }
+          ],
+          "start": 8.06,
+          "end": 9.52
+        },
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 10.14,
+              "end": 10.34
+            },
+            {
+              "word": "families",
+              "start": 10.34,
+              "end": 10.68
+            },
+            {
+              "word": "never",
+              "start": 10.68,
+              "end": 11.08
+            }
+          ],
+          "start": 10.14,
+          "end": 11.08
+        },
+        {
+          "words": [
+            {
+              "word": "woke",
+              "start": 11.08,
+              "end": 11.32
+            },
+            {
+              "word": "up",
+              "start": 11.32,
+              "end": 11.6
+            }
+          ],
+          "start": 11.08,
+          "end": 11.6
+        }
+      ]
+    },
+    {
+      "blockId": 2,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Doors",
+              "start": 0.0,
+              "end": 0.56
+            },
+            {
+              "word": "remained",
+              "start": 0.56,
+              "end": 1.02
+            },
+            {
+              "word": "locked",
+              "start": 1.02,
+              "end": 1.38
+            }
+          ],
+          "start": 0.0,
+          "end": 1.38
+        },
+        {
+          "words": [
+            {
+              "word": "from",
+              "start": 1.38,
+              "end": 1.64
+            },
+            {
+              "word": "the",
+              "start": 1.64,
+              "end": 2.02
+            },
+            {
+              "word": "inside",
+              "start": 2.02,
+              "end": 2.38
+            }
+          ],
+          "start": 1.38,
+          "end": 2.38
+        },
+        {
+          "words": [
+            {
+              "word": "Windows",
+              "start": 3.58,
+              "end": 3.58
+            },
+            {
+              "word": "showed",
+              "start": 3.58,
+              "end": 3.92
+            },
+            {
+              "word": "no",
+              "start": 3.92,
+              "end": 4.24
+            }
+          ],
+          "start": 3.58,
+          "end": 4.24
+        },
+        {
+          "words": [
+            {
+              "word": "signs",
+              "start": 4.24,
+              "end": 4.52
+            },
+            {
+              "word": "of",
+              "start": 4.52,
+              "end": 5.22
+            },
+            {
+              "word": "tampering",
+              "start": 5.22,
+              "end": 5.22
+            }
+          ],
+          "start": 4.24,
+          "end": 5.22
+        },
+        {
+          "words": [
+            {
+              "word": "Yet",
+              "start": 5.72,
+              "end": 5.94
+            },
+            {
+              "word": "morning",
+              "start": 5.94,
+              "end": 6.26
+            },
+            {
+              "word": "after",
+              "start": 6.26,
+              "end": 6.64
+            }
+          ],
+          "start": 5.72,
+          "end": 6.64
+        },
+        {
+          "words": [
+            {
+              "word": "morning",
+              "start": 6.64,
+              "end": 7.06
+            }
+          ],
+          "start": 6.64,
+          "end": 7.06
+        },
+        {
+          "words": [
+            {
+              "word": "residents",
+              "start": 7.72,
+              "end": 7.98
+            },
+            {
+              "word": "discovered",
+              "start": 7.98,
+              "end": 8.54
+            },
+            {
+              "word": "sections",
+              "start": 8.54,
+              "end": 9.02
+            }
+          ],
+          "start": 7.72,
+          "end": 9.02
+        },
+        {
+          "words": [
+            {
+              "word": "of",
+              "start": 9.02,
+              "end": 9.28
+            },
+            {
+              "word": "their",
+              "start": 9.28,
+              "end": 9.46
+            },
+            {
+              "word": "hair",
+              "start": 9.46,
+              "end": 9.82
+            }
+          ],
+          "start": 9.02,
+          "end": 9.82
+        },
+        {
+          "words": [
+            {
+              "word": "had",
+              "start": 9.82,
+              "end": 10.06
+            },
+            {
+              "word": "been",
+              "start": 10.06,
+              "end": 10.28
+            },
+            {
+              "word": "precisely",
+              "start": 10.28,
+              "end": 10.86
+            }
+          ],
+          "start": 9.82,
+          "end": 10.86
+        },
+        {
+          "words": [
+            {
+              "word": "cut",
+              "start": 10.86,
+              "end": 11.3
+            },
+            {
+              "word": "while",
+              "start": 11.3,
+              "end": 11.58
+            },
+            {
+              "word": "they",
+              "start": 11.58,
+              "end": 11.86
+            }
+          ],
+          "start": 10.86,
+          "end": 11.86
+        },
+        {
+          "words": [
+            {
+              "word": "slept",
+              "start": 11.86,
+              "end": 12.12
+            }
+          ],
+          "start": 11.86,
+          "end": 12.12
+        }
+      ]
+    },
+    {
+      "blockId": 3,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 0.0,
+              "end": 0.34
+            },
+            {
+              "word": "cuts",
+              "start": 0.34,
+              "end": 0.54
+            },
+            {
+              "word": "were",
+              "start": 0.54,
+              "end": 0.88
+            }
+          ],
+          "start": 0.0,
+          "end": 0.88
+        },
+        {
+          "words": [
+            {
+              "word": "surgical",
+              "start": 0.88,
+              "end": 1.14
+            },
+            {
+              "word": "in",
+              "start": 1.14,
+              "end": 1.44
+            },
+            {
+              "word": "their",
+              "start": 1.44,
+              "end": 1.66
+            }
+          ],
+          "start": 0.88,
+          "end": 1.66
+        },
+        {
+          "words": [
+            {
+              "word": "precision",
+              "start": 1.66,
+              "end": 2.08
+            }
+          ],
+          "start": 1.66,
+          "end": 2.08
+        },
+        {
+          "words": [
+            {
+              "word": "no",
+              "start": 2.68,
+              "end": 2.88
+            },
+            {
+              "word": "tugging",
+              "start": 2.88,
+              "end": 3.28
+            }
+          ],
+          "start": 2.68,
+          "end": 3.28
+        },
+        {
+          "words": [
+            {
+              "word": "no",
+              "start": 3.74,
+              "end": 3.92
+            },
+            {
+              "word": "discomfort",
+              "start": 3.92,
+              "end": 4.4
+            }
+          ],
+          "start": 3.74,
+          "end": 4.4
+        },
+        {
+          "words": [
+            {
+              "word": "Victims",
+              "start": 5.46,
+              "end": 5.48
+            },
+            {
+              "word": "reported",
+              "start": 5.48,
+              "end": 5.94
+            },
+            {
+              "word": "dreams",
+              "start": 5.94,
+              "end": 6.36
+            }
+          ],
+          "start": 5.46,
+          "end": 6.36
+        },
+        {
+          "words": [
+            {
+              "word": "of",
+              "start": 6.36,
+              "end": 6.68
+            },
+            {
+              "word": "gentle",
+              "start": 6.68,
+              "end": 6.94
+            },
+            {
+              "word": "hands",
+              "start": 6.94,
+              "end": 7.36
+            }
+          ],
+          "start": 6.36,
+          "end": 7.36
+        },
+        {
+          "words": [
+            {
+              "word": "moving",
+              "start": 7.36,
+              "end": 7.72
+            },
+            {
+              "word": "through",
+              "start": 7.72,
+              "end": 7.94
+            },
+            {
+              "word": "their",
+              "start": 7.94,
+              "end": 8.2
+            }
+          ],
+          "start": 7.36,
+          "end": 8.2
+        },
+        {
+          "words": [
+            {
+              "word": "hair",
+              "start": 8.2,
+              "end": 8.54
+            }
+          ],
+          "start": 8.2,
+          "end": 8.54
+        },
+        {
+          "words": [
+            {
+              "word": "hands",
+              "start": 9.32,
+              "end": 9.32
+            },
+            {
+              "word": "that",
+              "start": 9.32,
+              "end": 9.68
+            },
+            {
+              "word": "belonged",
+              "start": 9.68,
+              "end": 9.94
+            }
+          ],
+          "start": 9.32,
+          "end": 9.94
+        },
+        {
+          "words": [
+            {
+              "word": "to",
+              "start": 9.94,
+              "end": 10.3
+            },
+            {
+              "word": "no",
+              "start": 10.3,
+              "end": 10.48
+            },
+            {
+              "word": "one",
+              "start": 10.48,
+              "end": 10.64
+            }
+          ],
+          "start": 9.94,
+          "end": 10.64
+        }
+      ]
+    },
+    {
+      "blockId": 4,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Six",
+              "start": 0.0,
+              "end": 0.46
+            },
+            {
+              "word": "families",
+              "start": 0.46,
+              "end": 0.98
+            }
+          ],
+          "start": 0.0,
+          "end": 0.98
+        },
+        {
+          "words": [
+            {
+              "word": "14",
+              "start": 1.48,
+              "end": 1.96
+            },
+            {
+              "word": "victims",
+              "start": 1.96,
+              "end": 2.42
+            }
+          ],
+          "start": 1.48,
+          "end": 2.42
+        },
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 3.02,
+              "end": 3.22
+            },
+            {
+              "word": "intruder",
+              "start": 3.22,
+              "end": 3.56
+            },
+            {
+              "word": "moved",
+              "start": 3.56,
+              "end": 4.12
+            }
+          ],
+          "start": 3.02,
+          "end": 4.12
+        },
+        {
+          "words": [
+            {
+              "word": "through",
+              "start": 4.12,
+              "end": 4.5
+            },
+            {
+              "word": "solid",
+              "start": 4.5,
+              "end": 4.84
+            },
+            {
+              "word": "walls",
+              "start": 4.84,
+              "end": 5.34
+            }
+          ],
+          "start": 4.12,
+          "end": 5.34
+        },
+        {
+          "words": [
+            {
+              "word": "past",
+              "start": 5.66,
+              "end": 6.02
+            },
+            {
+              "word": "sleeping",
+              "start": 6.02,
+              "end": 6.4
+            },
+            {
+              "word": "dogs",
+              "start": 6.4,
+              "end": 6.78
+            }
+          ],
+          "start": 5.66,
+          "end": 6.78
+        },
+        {
+          "words": [
+            {
+              "word": "that",
+              "start": 6.78,
+              "end": 7.06
+            },
+            {
+              "word": "never",
+              "start": 7.06,
+              "end": 7.32
+            },
+            {
+              "word": "barked",
+              "start": 7.32,
+              "end": 8.1
+            }
+          ],
+          "start": 6.78,
+          "end": 8.1
+        },
+        {
+          "words": [
+            {
+              "word": "Then",
+              "start": 8.1,
+              "end": 8.28
+            },
+            {
+              "word": "the",
+              "start": 8.28,
+              "end": 8.5
+            },
+            {
+              "word": "visit",
+              "start": 8.5,
+              "end": 8.72
+            }
+          ],
+          "start": 8.1,
+          "end": 8.72
+        },
+        {
+          "words": [
+            {
+              "word": "stopped",
+              "start": 8.72,
+              "end": 9.12
+            },
+            {
+              "word": "as",
+              "start": 9.12,
+              "end": 9.6
+            },
+            {
+              "word": "suddenly",
+              "start": 9.6,
+              "end": 9.6
+            }
+          ],
+          "start": 8.72,
+          "end": 9.6
+        },
+        {
+          "words": [
+            {
+              "word": "as",
+              "start": 9.6,
+              "end": 9.84
+            },
+            {
+              "word": "they",
+              "start": 9.84,
+              "end": 10.02
+            },
+            {
+              "word": "began",
+              "start": 10.02,
+              "end": 10.36
+            }
+          ],
+          "start": 9.6,
+          "end": 10.36
+        }
+      ]
+    },
+    {
+      "blockId": 5,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "No",
+              "start": 0.0,
+              "end": 0.4
+            },
+            {
+              "word": "arrests",
+              "start": 0.4,
+              "end": 0.76
+            },
+            {
+              "word": "were",
+              "start": 0.76,
+              "end": 1.04
+            }
+          ],
+          "start": 0.0,
+          "end": 1.04
+        },
+        {
+          "words": [
+            {
+              "word": "ever",
+              "start": 1.04,
+              "end": 1.28
+            },
+            {
+              "word": "made",
+              "start": 1.28,
+              "end": 1.6
+            }
+          ],
+          "start": 1.04,
+          "end": 1.6
+        },
+        {
+          "words": [
+            {
+              "word": "the",
+              "start": 2.08,
+              "end": 2.24
+            },
+            {
+              "word": "hair",
+              "start": 2.24,
+              "end": 2.36
+            },
+            {
+              "word": "was",
+              "start": 2.36,
+              "end": 2.6
+            }
+          ],
+          "start": 2.08,
+          "end": 2.6
+        },
+        {
+          "words": [
+            {
+              "word": "never",
+              "start": 2.6,
+              "end": 2.84
+            },
+            {
+              "word": "found",
+              "start": 2.84,
+              "end": 3.3
+            },
+            {
+              "word": "and",
+              "start": 3.62,
+              "end": 3.92
+            }
+          ],
+          "start": 2.6,
+          "end": 3.92
+        },
+        {
+          "words": [
+            {
+              "word": "the",
+              "start": 3.92,
+              "end": 4.1
+            },
+            {
+              "word": "Department",
+              "start": 4.1,
+              "end": 4.44
+            },
+            {
+              "word": "of",
+              "start": 4.44,
+              "end": 4.58
+            }
+          ],
+          "start": 3.92,
+          "end": 4.58
+        },
+        {
+          "words": [
+            {
+              "word": "the",
+              "start": 4.58,
+              "end": 4.94
+            },
+            {
+              "word": "Unknown",
+              "start": 4.94,
+              "end": 5.16
+            },
+            {
+              "word": "files",
+              "start": 5.16,
+              "end": 5.72
+            }
+          ],
+          "start": 4.58,
+          "end": 5.72
+        },
+        {
+          "words": [
+            {
+              "word": "remain",
+              "start": 5.72,
+              "end": 6.18
+            },
+            {
+              "word": "open",
+              "start": 6.18,
+              "end": 6.58
+            },
+            {
+              "word": "on",
+              "start": 6.58,
+              "end": 6.9
+            }
+          ],
+          "start": 5.72,
+          "end": 6.9
+        },
+        {
+          "words": [
+            {
+              "word": "cases",
+              "start": 6.9,
+              "end": 7.22
+            },
+            {
+              "word": "where",
+              "start": 7.22,
+              "end": 7.46
+            },
+            {
+              "word": "the",
+              "start": 7.46,
+              "end": 7.72
+            }
+          ],
+          "start": 6.9,
+          "end": 7.72
+        },
+        {
+          "words": [
+            {
+              "word": "impossible",
+              "start": 7.72,
+              "end": 8.22
+            },
+            {
+              "word": "becomes",
+              "start": 8.22,
+              "end": 8.68
+            },
+            {
+              "word": "routine",
+              "start": 8.68,
+              "end": 9.1
+            }
+          ],
+          "start": 7.72,
+          "end": 9.1
+        }
+      ]
+    }
+  ],
+  "effectsIntensity": "medium",
+  "showTimestamp": true
+}

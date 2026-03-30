@@ -1,0 +1,1033 @@
+{
+  "caseId": "23_The_Beast_Of_G_Vaudan_Attacks",
+  "chosenStyle": "vintage_illustration",
+  "sequences": [
+    {
+      "blockId": 1,
+      "motionType": "ken_burns_slow_push",
+      "imagePath": "assets/case_23_The_Beast_Of_G_Vaudan_Attacks/1_image.jpg",
+      "audioPath": "assets/case_23_The_Beast_Of_G_Vaudan_Attacks/1_audio.mp3",
+      "audioDurationSec": 16.38
+    },
+    {
+      "blockId": 2,
+      "motionType": "ken_burns_zoom_in",
+      "imagePath": "assets/case_23_The_Beast_Of_G_Vaudan_Attacks/2_image.jpg",
+      "audioPath": "assets/case_23_The_Beast_Of_G_Vaudan_Attacks/2_audio.mp3",
+      "audioDurationSec": 9.22
+    },
+    {
+      "blockId": 3,
+      "motionType": "ken_burns_pan_right",
+      "imagePath": "assets/case_23_The_Beast_Of_G_Vaudan_Attacks/3_image.jpg",
+      "audioPath": "assets/case_23_The_Beast_Of_G_Vaudan_Attacks/3_audio.mp3",
+      "audioDurationSec": 10.48
+    },
+    {
+      "blockId": 4,
+      "motionType": "ken_burns_pan_left",
+      "imagePath": "assets/case_23_The_Beast_Of_G_Vaudan_Attacks/4_image.jpg",
+      "audioPath": "assets/case_23_The_Beast_Of_G_Vaudan_Attacks/4_audio.mp3",
+      "audioDurationSec": 11.31
+    },
+    {
+      "blockId": 5,
+      "motionType": "kling_i2v_scare",
+      "imagePath": "assets/case_23_The_Beast_Of_G_Vaudan_Attacks/5_image.jpg",
+      "audioPath": "assets/case_23_The_Beast_Of_G_Vaudan_Attacks/5_audio.mp3",
+      "videoPath": "assets/case_23_The_Beast_Of_G_Vaudan_Attacks/5_scare.mp4",
+      "audioDurationSec": 12.77
+    }
+  ],
+  "ambientLayers": {
+    "droneAudio": "assets/shared/drone_audio.mp3",
+    "vhsStatic": "assets/shared/vhs_static.mp3",
+    "backgroundMusic": "assets/shared/music/horror_music_03.mp3",
+    "scareStinger": "assets/shared/sfx_scare/scare_hit_02.mp3",
+    "transitionWhoosh": "assets/shared/sfx_transition/dark_whoosh_03.mp3"
+  },
+  "captions": [
+    {
+      "blockId": 1,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Between",
+              "start": 0.0,
+              "end": 0.58
+            },
+            {
+              "word": "1764",
+              "start": 0.58,
+              "end": 1.9
+            },
+            {
+              "word": "and",
+              "start": 1.9,
+              "end": 2.2
+            }
+          ],
+          "start": 0.0,
+          "end": 2.2
+        },
+        {
+          "words": [
+            {
+              "word": "1767",
+              "start": 2.2,
+              "end": 3.28
+            }
+          ],
+          "start": 2.2,
+          "end": 3.28
+        },
+        {
+          "words": [
+            {
+              "word": "something",
+              "start": 3.76,
+              "end": 4.22
+            },
+            {
+              "word": "stalked",
+              "start": 4.22,
+              "end": 4.82
+            },
+            {
+              "word": "the",
+              "start": 4.82,
+              "end": 5.46
+            }
+          ],
+          "start": 3.76,
+          "end": 5.46
+        },
+        {
+          "words": [
+            {
+              "word": "mountains",
+              "start": 5.46,
+              "end": 5.46
+            },
+            {
+              "word": "of",
+              "start": 5.46,
+              "end": 5.82
+            },
+            {
+              "word": "Gevaudan",
+              "start": 5.82,
+              "end": 6.34
+            }
+          ],
+          "start": 5.46,
+          "end": 6.34
+        },
+        {
+          "words": [
+            {
+              "word": "France",
+              "start": 6.98,
+              "end": 7.02
+            }
+          ],
+          "start": 6.98,
+          "end": 7.02
+        },
+        {
+          "words": [
+            {
+              "word": "And",
+              "start": 7.48,
+              "end": 7.84
+            },
+            {
+              "word": "it",
+              "start": 7.84,
+              "end": 8.06
+            },
+            {
+              "word": "preferred",
+              "start": 8.06,
+              "end": 8.42
+            }
+          ],
+          "start": 7.48,
+          "end": 8.42
+        },
+        {
+          "words": [
+            {
+              "word": "human",
+              "start": 8.42,
+              "end": 8.84
+            },
+            {
+              "word": "flesh",
+              "start": 8.84,
+              "end": 9.08
+            },
+            {
+              "word": "to",
+              "start": 9.08,
+              "end": 9.68
+            }
+          ],
+          "start": 8.42,
+          "end": 9.68
+        },
+        {
+          "words": [
+            {
+              "word": "sheep",
+              "start": 9.68,
+              "end": 9.68
+            }
+          ],
+          "start": 9.68,
+          "end": 9.68
+        },
+        {
+          "words": [
+            {
+              "word": "Over",
+              "start": 10.44,
+              "end": 10.54
+            },
+            {
+              "word": "200",
+              "start": 10.54,
+              "end": 11.16
+            },
+            {
+              "word": "people",
+              "start": 11.16,
+              "end": 11.72
+            }
+          ],
+          "start": 10.44,
+          "end": 11.72
+        },
+        {
+          "words": [
+            {
+              "word": "died",
+              "start": 11.72,
+              "end": 12.12
+            },
+            {
+              "word": "while",
+              "start": 12.12,
+              "end": 12.52
+            },
+            {
+              "word": "livestock",
+              "start": 12.52,
+              "end": 13.16
+            }
+          ],
+          "start": 11.72,
+          "end": 13.16
+        },
+        {
+          "words": [
+            {
+              "word": "grazed",
+              "start": 13.16,
+              "end": 13.68
+            },
+            {
+              "word": "untouched",
+              "start": 13.68,
+              "end": 14.34
+            },
+            {
+              "word": "mere",
+              "start": 14.34,
+              "end": 14.78
+            }
+          ],
+          "start": 13.16,
+          "end": 14.78
+        },
+        {
+          "words": [
+            {
+              "word": "feet",
+              "start": 14.78,
+              "end": 15.0
+            },
+            {
+              "word": "away",
+              "start": 15.0,
+              "end": 15.4
+            }
+          ],
+          "start": 14.78,
+          "end": 15.4
+        }
+      ]
+    },
+    {
+      "blockId": 2,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 0.0,
+              "end": 0.22
+            },
+            {
+              "word": "creature",
+              "start": 0.22,
+              "end": 0.46
+            },
+            {
+              "word": "killed",
+              "start": 0.46,
+              "end": 0.88
+            }
+          ],
+          "start": 0.0,
+          "end": 0.88
+        },
+        {
+          "words": [
+            {
+              "word": "with",
+              "start": 0.88,
+              "end": 1.16
+            },
+            {
+              "word": "surgical",
+              "start": 1.16,
+              "end": 1.48
+            },
+            {
+              "word": "precision",
+              "start": 1.48,
+              "end": 2.02
+            }
+          ],
+          "start": 0.88,
+          "end": 2.02
+        },
+        {
+          "words": [
+            {
+              "word": "A",
+              "start": 2.6,
+              "end": 2.84
+            },
+            {
+              "word": "single",
+              "start": 2.84,
+              "end": 3.12
+            },
+            {
+              "word": "bite",
+              "start": 3.12,
+              "end": 3.4
+            }
+          ],
+          "start": 2.6,
+          "end": 3.4
+        },
+        {
+          "words": [
+            {
+              "word": "to",
+              "start": 3.4,
+              "end": 3.58
+            },
+            {
+              "word": "the",
+              "start": 3.58,
+              "end": 4.22
+            },
+            {
+              "word": "skull",
+              "start": 4.22,
+              "end": 4.22
+            }
+          ],
+          "start": 3.4,
+          "end": 4.22
+        },
+        {
+          "words": [
+            {
+              "word": "crushing",
+              "start": 4.88,
+              "end": 4.88
+            },
+            {
+              "word": "bone",
+              "start": 4.88,
+              "end": 5.4
+            },
+            {
+              "word": "like",
+              "start": 5.4,
+              "end": 5.68
+            }
+          ],
+          "start": 4.88,
+          "end": 5.68
+        },
+        {
+          "words": [
+            {
+              "word": "an",
+              "start": 5.68,
+              "end": 5.92
+            },
+            {
+              "word": "eggshell",
+              "start": 5.92,
+              "end": 6.36
+            }
+          ],
+          "start": 5.68,
+          "end": 6.36
+        },
+        {
+          "words": [
+            {
+              "word": "This",
+              "start": 6.88,
+              "end": 7.48
+            },
+            {
+              "word": "was",
+              "start": 7.48,
+              "end": 7.7
+            },
+            {
+              "word": "not",
+              "start": 7.7,
+              "end": 7.92
+            }
+          ],
+          "start": 6.88,
+          "end": 7.92
+        },
+        {
+          "words": [
+            {
+              "word": "how",
+              "start": 7.92,
+              "end": 8.22
+            },
+            {
+              "word": "wolves",
+              "start": 8.22,
+              "end": 8.56
+            },
+            {
+              "word": "hunt",
+              "start": 8.56,
+              "end": 8.86
+            }
+          ],
+          "start": 7.92,
+          "end": 8.86
+        }
+      ]
+    },
+    {
+      "blockId": 3,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Musket",
+              "start": 0.0,
+              "end": 0.46
+            },
+            {
+              "word": "balls",
+              "start": 0.46,
+              "end": 0.88
+            },
+            {
+              "word": "struck",
+              "start": 0.88,
+              "end": 1.4
+            }
+          ],
+          "start": 0.0,
+          "end": 1.4
+        },
+        {
+          "words": [
+            {
+              "word": "the",
+              "start": 1.4,
+              "end": 1.66
+            },
+            {
+              "word": "beast",
+              "start": 1.66,
+              "end": 1.92
+            },
+            {
+              "word": "at",
+              "start": 1.92,
+              "end": 2.16
+            }
+          ],
+          "start": 1.4,
+          "end": 2.16
+        },
+        {
+          "words": [
+            {
+              "word": "close",
+              "start": 2.16,
+              "end": 2.42
+            },
+            {
+              "word": "range",
+              "start": 2.42,
+              "end": 2.94
+            }
+          ],
+          "start": 2.16,
+          "end": 2.94
+        },
+        {
+          "words": [
+            {
+              "word": "Witnesses",
+              "start": 3.66,
+              "end": 4.0
+            },
+            {
+              "word": "watched",
+              "start": 4.0,
+              "end": 4.24
+            },
+            {
+              "word": "it",
+              "start": 4.24,
+              "end": 4.56
+            }
+          ],
+          "start": 3.66,
+          "end": 4.56
+        },
+        {
+          "words": [
+            {
+              "word": "shake",
+              "start": 4.56,
+              "end": 4.76
+            },
+            {
+              "word": "off",
+              "start": 4.76,
+              "end": 5.02
+            },
+            {
+              "word": "the",
+              "start": 5.02,
+              "end": 5.4
+            }
+          ],
+          "start": 4.56,
+          "end": 5.4
+        },
+        {
+          "words": [
+            {
+              "word": "impacts",
+              "start": 5.4,
+              "end": 5.68
+            },
+            {
+              "word": "and",
+              "start": 5.68,
+              "end": 5.98
+            },
+            {
+              "word": "continue",
+              "start": 5.98,
+              "end": 6.42
+            }
+          ],
+          "start": 5.4,
+          "end": 6.42
+        },
+        {
+          "words": [
+            {
+              "word": "its",
+              "start": 6.42,
+              "end": 6.72
+            },
+            {
+              "word": "attack",
+              "start": 6.72,
+              "end": 7.1
+            }
+          ],
+          "start": 6.42,
+          "end": 7.1
+        },
+        {
+          "words": [
+            {
+              "word": "Lead",
+              "start": 7.98,
+              "end": 8.02
+            },
+            {
+              "word": "could",
+              "start": 8.02,
+              "end": 8.26
+            },
+            {
+              "word": "not",
+              "start": 8.26,
+              "end": 8.62
+            }
+          ],
+          "start": 7.98,
+          "end": 8.62
+        },
+        {
+          "words": [
+            {
+              "word": "stop",
+              "start": 8.62,
+              "end": 8.96
+            },
+            {
+              "word": "what",
+              "start": 8.96,
+              "end": 9.22
+            },
+            {
+              "word": "should",
+              "start": 9.22,
+              "end": 9.4
+            }
+          ],
+          "start": 8.62,
+          "end": 9.4
+        },
+        {
+          "words": [
+            {
+              "word": "not",
+              "start": 9.4,
+              "end": 9.66
+            },
+            {
+              "word": "exist",
+              "start": 9.66,
+              "end": 10.04
+            }
+          ],
+          "start": 9.4,
+          "end": 10.04
+        }
+      ]
+    },
+    {
+      "blockId": 4,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "It",
+              "start": 0.0,
+              "end": 0.34
+            },
+            {
+              "word": "bypassed",
+              "start": 0.34,
+              "end": 1.14
+            },
+            {
+              "word": "entire",
+              "start": 1.14,
+              "end": 1.52
+            }
+          ],
+          "start": 0.0,
+          "end": 1.52
+        },
+        {
+          "words": [
+            {
+              "word": "flocks",
+              "start": 1.52,
+              "end": 1.96
+            },
+            {
+              "word": "to",
+              "start": 1.96,
+              "end": 2.2
+            },
+            {
+              "word": "reach",
+              "start": 2.2,
+              "end": 2.36
+            }
+          ],
+          "start": 1.52,
+          "end": 2.36
+        },
+        {
+          "words": [
+            {
+              "word": "the",
+              "start": 2.36,
+              "end": 2.72
+            },
+            {
+              "word": "shepherd",
+              "start": 2.72,
+              "end": 2.92
+            }
+          ],
+          "start": 2.36,
+          "end": 2.92
+        },
+        {
+          "words": [
+            {
+              "word": "It",
+              "start": 3.9,
+              "end": 4.1
+            },
+            {
+              "word": "ignored",
+              "start": 4.1,
+              "end": 4.42
+            },
+            {
+              "word": "cattle",
+              "start": 4.42,
+              "end": 4.8
+            }
+          ],
+          "start": 3.9,
+          "end": 4.8
+        },
+        {
+          "words": [
+            {
+              "word": "to",
+              "start": 4.8,
+              "end": 5.26
+            },
+            {
+              "word": "claim",
+              "start": 5.26,
+              "end": 5.26
+            },
+            {
+              "word": "the",
+              "start": 5.26,
+              "end": 5.84
+            }
+          ],
+          "start": 4.8,
+          "end": 5.84
+        },
+        {
+          "words": [
+            {
+              "word": "farmer",
+              "start": 5.84,
+              "end": 5.84
+            }
+          ],
+          "start": 5.84,
+          "end": 5.84
+        },
+        {
+          "words": [
+            {
+              "word": "This",
+              "start": 7.02,
+              "end": 7.18
+            },
+            {
+              "word": "was",
+              "start": 7.18,
+              "end": 7.44
+            },
+            {
+              "word": "not",
+              "start": 7.44,
+              "end": 7.7
+            }
+          ],
+          "start": 7.02,
+          "end": 7.7
+        },
+        {
+          "words": [
+            {
+              "word": "predation",
+              "start": 7.7,
+              "end": 8.24
+            }
+          ],
+          "start": 7.7,
+          "end": 8.24
+        },
+        {
+          "words": [
+            {
+              "word": "this",
+              "start": 9.14,
+              "end": 9.4
+            },
+            {
+              "word": "was",
+              "start": 9.4,
+              "end": 9.8
+            },
+            {
+              "word": "selection",
+              "start": 9.8,
+              "end": 10.18
+            }
+          ],
+          "start": 9.14,
+          "end": 10.18
+        }
+      ]
+    },
+    {
+      "blockId": 5,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Three",
+              "start": 0.0,
+              "end": 0.46
+            },
+            {
+              "word": "years",
+              "start": 0.46,
+              "end": 0.96
+            },
+            {
+              "word": "of",
+              "start": 0.96,
+              "end": 1.3
+            }
+          ],
+          "start": 0.0,
+          "end": 1.3
+        },
+        {
+          "words": [
+            {
+              "word": "terror",
+              "start": 1.3,
+              "end": 1.66
+            },
+            {
+              "word": "ended",
+              "start": 1.66,
+              "end": 2.22
+            },
+            {
+              "word": "as",
+              "start": 2.22,
+              "end": 2.78
+            }
+          ],
+          "start": 1.3,
+          "end": 2.78
+        },
+        {
+          "words": [
+            {
+              "word": "mysteriously",
+              "start": 2.78,
+              "end": 3.26
+            },
+            {
+              "word": "as",
+              "start": 3.26,
+              "end": 3.64
+            },
+            {
+              "word": "it",
+              "start": 3.64,
+              "end": 3.86
+            }
+          ],
+          "start": 2.78,
+          "end": 3.86
+        },
+        {
+          "words": [
+            {
+              "word": "began",
+              "start": 3.86,
+              "end": 4.24
+            }
+          ],
+          "start": 3.86,
+          "end": 4.24
+        },
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 4.88,
+              "end": 5.04
+            },
+            {
+              "word": "creature's",
+              "start": 5.04,
+              "end": 5.56
+            },
+            {
+              "word": "true",
+              "start": 5.56,
+              "end": 5.8
+            }
+          ],
+          "start": 4.88,
+          "end": 5.8
+        },
+        {
+          "words": [
+            {
+              "word": "nature",
+              "start": 5.8,
+              "end": 6.14
+            },
+            {
+              "word": "remains",
+              "start": 6.14,
+              "end": 6.62
+            },
+            {
+              "word": "cataloged",
+              "start": 6.62,
+              "end": 7.4
+            }
+          ],
+          "start": 5.8,
+          "end": 7.4
+        },
+        {
+          "words": [
+            {
+              "word": "in",
+              "start": 7.4,
+              "end": 7.5
+            },
+            {
+              "word": "the",
+              "start": 7.5,
+              "end": 7.94
+            },
+            {
+              "word": "files",
+              "start": 7.94,
+              "end": 8.1
+            }
+          ],
+          "start": 7.4,
+          "end": 8.1
+        },
+        {
+          "words": [
+            {
+              "word": "of",
+              "start": 8.1,
+              "end": 8.3
+            },
+            {
+              "word": "the",
+              "start": 8.3,
+              "end": 8.54
+            },
+            {
+              "word": "Department",
+              "start": 8.54,
+              "end": 8.88
+            }
+          ],
+          "start": 8.1,
+          "end": 8.88
+        },
+        {
+          "words": [
+            {
+              "word": "of",
+              "start": 8.88,
+              "end": 9.08
+            },
+            {
+              "word": "the",
+              "start": 9.08,
+              "end": 9.42
+            },
+            {
+              "word": "Unknown",
+              "start": 9.42,
+              "end": 9.74
+            }
+          ],
+          "start": 8.88,
+          "end": 9.74
+        },
+        {
+          "words": [
+            {
+              "word": "where",
+              "start": 10.46,
+              "end": 10.54
+            },
+            {
+              "word": "some",
+              "start": 10.54,
+              "end": 10.98
+            },
+            {
+              "word": "hunts",
+              "start": 10.98,
+              "end": 11.46
+            }
+          ],
+          "start": 10.46,
+          "end": 11.46
+        },
+        {
+          "words": [
+            {
+              "word": "never",
+              "start": 11.46,
+              "end": 11.96
+            },
+            {
+              "word": "end",
+              "start": 11.96,
+              "end": 12.44
+            }
+          ],
+          "start": 11.46,
+          "end": 12.44
+        }
+      ]
+    }
+  ],
+  "effectsIntensity": "medium",
+  "showTimestamp": true
+}

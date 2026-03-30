@@ -1,0 +1,616 @@
+[
+  {
+    "blockId": 1,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "Department",
+            "start": 0.0,
+            "end": 0.56
+          },
+          {
+            "word": "of",
+            "start": 0.56,
+            "end": 0.72
+          },
+          {
+            "word": "the",
+            "start": 0.72,
+            "end": 1.08
+          }
+        ],
+        "start": 0.0,
+        "end": 1.08
+      },
+      {
+        "words": [
+          {
+            "word": "Unknown",
+            "start": 1.08,
+            "end": 1.26
+          },
+          {
+            "word": "has",
+            "start": 1.26,
+            "end": 1.54
+          },
+          {
+            "word": "received",
+            "start": 1.54,
+            "end": 1.94
+          }
+        ],
+        "start": 1.08,
+        "end": 1.94
+      },
+      {
+        "words": [
+          {
+            "word": "multiple",
+            "start": 1.94,
+            "end": 2.5
+          },
+          {
+            "word": "requests",
+            "start": 2.5,
+            "end": 3.0
+          },
+          {
+            "word": "for",
+            "start": 3.0,
+            "end": 3.3
+          }
+        ],
+        "start": 1.94,
+        "end": 3.3
+      },
+      {
+        "words": [
+          {
+            "word": "information",
+            "start": 3.3,
+            "end": 3.84
+          },
+          {
+            "word": "regarding",
+            "start": 3.84,
+            "end": 4.38
+          },
+          {
+            "word": "the",
+            "start": 4.38,
+            "end": 4.66
+          }
+        ],
+        "start": 3.3,
+        "end": 4.66
+      },
+      {
+        "words": [
+          {
+            "word": "Belmez",
+            "start": 4.66,
+            "end": 5.02
+          },
+          {
+            "word": "Faces",
+            "start": 5.02,
+            "end": 5.42
+          },
+          {
+            "word": "incident",
+            "start": 5.42,
+            "end": 6.22
+          }
+        ],
+        "start": 4.66,
+        "end": 6.22
+      },
+      {
+        "words": [
+          {
+            "word": "File",
+            "start": 6.86,
+            "end": 6.9
+          },
+          {
+            "word": "contents",
+            "start": 6.9,
+            "end": 7.44
+          },
+          {
+            "word": "have",
+            "start": 7.44,
+            "end": 7.74
+          }
+        ],
+        "start": 6.86,
+        "end": 7.74
+      },
+      {
+        "words": [
+          {
+            "word": "been",
+            "start": 7.74,
+            "end": 8.06
+          },
+          {
+            "word": "systematically",
+            "start": 8.06,
+            "end": 8.72
+          },
+          {
+            "word": "redacted",
+            "start": 8.72,
+            "end": 9.42
+          }
+        ],
+        "start": 7.74,
+        "end": 9.42
+      }
+    ]
+  },
+  {
+    "blockId": 2,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "All",
+            "start": 0.0,
+            "end": 0.36
+          },
+          {
+            "word": "photographic",
+            "start": 0.36,
+            "end": 1.34
+          },
+          {
+            "word": "evidence",
+            "start": 1.34,
+            "end": 1.34
+          }
+        ],
+        "start": 0.0,
+        "end": 1.34
+      },
+      {
+        "words": [
+          {
+            "word": "has",
+            "start": 1.34,
+            "end": 1.68
+          },
+          {
+            "word": "degraded",
+            "start": 1.68,
+            "end": 2.16
+          },
+          {
+            "word": "beyond",
+            "start": 2.16,
+            "end": 2.5
+          }
+        ],
+        "start": 1.34,
+        "end": 2.5
+      },
+      {
+        "words": [
+          {
+            "word": "recognition",
+            "start": 2.5,
+            "end": 3.1
+          },
+          {
+            "word": "Written",
+            "start": 3.9,
+            "end": 3.92
+          },
+          {
+            "word": "reports",
+            "start": 3.92,
+            "end": 4.32
+          }
+        ],
+        "start": 2.5,
+        "end": 4.32
+      },
+      {
+        "words": [
+          {
+            "word": "contain",
+            "start": 4.32,
+            "end": 4.72
+          },
+          {
+            "word": "only",
+            "start": 4.72,
+            "end": 5.08
+          },
+          {
+            "word": "blank",
+            "start": 5.08,
+            "end": 5.34
+          }
+        ],
+        "start": 4.32,
+        "end": 5.34
+      },
+      {
+        "words": [
+          {
+            "word": "pages",
+            "start": 5.34,
+            "end": 5.72
+          },
+          {
+            "word": "with",
+            "start": 5.72,
+            "end": 6.1
+          },
+          {
+            "word": "residual",
+            "start": 6.1,
+            "end": 6.54
+          }
+        ],
+        "start": 5.34,
+        "end": 6.54
+      },
+      {
+        "words": [
+          {
+            "word": "ink",
+            "start": 6.54,
+            "end": 6.9
+          },
+          {
+            "word": "stains",
+            "start": 6.9,
+            "end": 7.24
+          },
+          {
+            "word": "that",
+            "start": 7.24,
+            "end": 7.56
+          }
+        ],
+        "start": 6.54,
+        "end": 7.56
+      },
+      {
+        "words": [
+          {
+            "word": "move",
+            "start": 7.56,
+            "end": 7.84
+          },
+          {
+            "word": "when",
+            "start": 7.84,
+            "end": 8.1
+          },
+          {
+            "word": "observed",
+            "start": 8.1,
+            "end": 8.42
+          }
+        ],
+        "start": 7.56,
+        "end": 8.42
+      },
+      {
+        "words": [
+          {
+            "word": "directly",
+            "start": 8.42,
+            "end": 8.92
+          }
+        ],
+        "start": 8.42,
+        "end": 8.92
+      }
+    ]
+  },
+  {
+    "blockId": 3,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "Archival",
+            "start": 0.0,
+            "end": 0.6
+          },
+          {
+            "word": "staff",
+            "start": 0.6,
+            "end": 0.94
+          },
+          {
+            "word": "assigned",
+            "start": 0.94,
+            "end": 1.32
+          }
+        ],
+        "start": 0.0,
+        "end": 1.32
+      },
+      {
+        "words": [
+          {
+            "word": "to",
+            "start": 1.32,
+            "end": 1.5
+          },
+          {
+            "word": "this",
+            "start": 1.5,
+            "end": 1.7
+          },
+          {
+            "word": "case",
+            "start": 1.7,
+            "end": 1.94
+          }
+        ],
+        "start": 1.32,
+        "end": 1.94
+      },
+      {
+        "words": [
+          {
+            "word": "cannot",
+            "start": 1.94,
+            "end": 2.22
+          },
+          {
+            "word": "recall",
+            "start": 2.22,
+            "end": 2.6
+          },
+          {
+            "word": "what",
+            "start": 2.6,
+            "end": 2.82
+          }
+        ],
+        "start": 1.94,
+        "end": 2.82
+      },
+      {
+        "words": [
+          {
+            "word": "they",
+            "start": 2.82,
+            "end": 2.94
+          },
+          {
+            "word": "were",
+            "start": 2.94,
+            "end": 3.26
+          },
+          {
+            "word": "researching",
+            "start": 3.26,
+            "end": 3.6
+          }
+        ],
+        "start": 2.82,
+        "end": 3.6
+      },
+      {
+        "words": [
+          {
+            "word": "They",
+            "start": 4.18,
+            "end": 4.22
+          },
+          {
+            "word": "report",
+            "start": 4.22,
+            "end": 4.56
+          },
+          {
+            "word": "finding",
+            "start": 4.56,
+            "end": 4.96
+          }
+        ],
+        "start": 4.18,
+        "end": 4.96
+      },
+      {
+        "words": [
+          {
+            "word": "themselves",
+            "start": 4.96,
+            "end": 5.48
+          },
+          {
+            "word": "standing",
+            "start": 5.48,
+            "end": 5.88
+          },
+          {
+            "word": "in",
+            "start": 5.88,
+            "end": 6.18
+          }
+        ],
+        "start": 4.96,
+        "end": 6.18
+      },
+      {
+        "words": [
+          {
+            "word": "empty",
+            "start": 6.18,
+            "end": 6.44
+          },
+          {
+            "word": "filing",
+            "start": 6.44,
+            "end": 6.86
+          },
+          {
+            "word": "rooms",
+            "start": 6.86,
+            "end": 7.16
+          }
+        ],
+        "start": 6.18,
+        "end": 7.16
+      },
+      {
+        "words": [
+          {
+            "word": "with",
+            "start": 7.16,
+            "end": 7.44
+          },
+          {
+            "word": "no",
+            "start": 7.44,
+            "end": 7.72
+          },
+          {
+            "word": "memory",
+            "start": 7.72,
+            "end": 7.96
+          }
+        ],
+        "start": 7.16,
+        "end": 7.96
+      },
+      {
+        "words": [
+          {
+            "word": "of",
+            "start": 7.96,
+            "end": 8.32
+          },
+          {
+            "word": "entry",
+            "start": 8.32,
+            "end": 8.44
+          }
+        ],
+        "start": 7.96,
+        "end": 8.44
+      }
+    ]
+  },
+  {
+    "blockId": 4,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "All",
+            "start": 0.0,
+            "end": 0.3
+          },
+          {
+            "word": "personnel",
+            "start": 0.3,
+            "end": 0.66
+          },
+          {
+            "word": "are",
+            "start": 0.66,
+            "end": 0.92
+          }
+        ],
+        "start": 0.0,
+        "end": 0.92
+      },
+      {
+        "words": [
+          {
+            "word": "advised",
+            "start": 0.92,
+            "end": 1.3
+          },
+          {
+            "word": "that",
+            "start": 1.3,
+            "end": 1.6
+          },
+          {
+            "word": "no",
+            "start": 1.6,
+            "end": 1.84
+          }
+        ],
+        "start": 0.92,
+        "end": 1.84
+      },
+      {
+        "words": [
+          {
+            "word": "such",
+            "start": 1.84,
+            "end": 2.08
+          },
+          {
+            "word": "requests",
+            "start": 2.08,
+            "end": 2.54
+          },
+          {
+            "word": "have",
+            "start": 2.54,
+            "end": 2.78
+          }
+        ],
+        "start": 1.84,
+        "end": 2.78
+      },
+      {
+        "words": [
+          {
+            "word": "ever",
+            "start": 2.78,
+            "end": 3.02
+          },
+          {
+            "word": "been",
+            "start": 3.02,
+            "end": 3.26
+          },
+          {
+            "word": "filed",
+            "start": 3.26,
+            "end": 3.5
+          }
+        ],
+        "start": 2.78,
+        "end": 3.5
+      },
+      {
+        "words": [
+          {
+            "word": "with",
+            "start": 3.5,
+            "end": 3.76
+          },
+          {
+            "word": "this",
+            "start": 3.76,
+            "end": 4.0
+          },
+          {
+            "word": "Department",
+            "start": 4.0,
+            "end": 4.28
+          }
+        ],
+        "start": 3.5,
+        "end": 4.28
+      }
+    ]
+  }
+]

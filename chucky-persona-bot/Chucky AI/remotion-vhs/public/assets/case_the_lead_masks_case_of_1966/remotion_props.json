@@ -1,0 +1,741 @@
+{
+  "caseId": "the_lead_masks_case_of_1966",
+  "sequences": [
+    {
+      "blockId": 1,
+      "motionType": "ken_burns_zoom_in",
+      "imagePath": "assets/case_the_lead_masks_case_of_1966/1_image.jpg",
+      "audioPath": "assets/case_the_lead_masks_case_of_1966/1_audio.mp3",
+      "audioDurationSec": 12.62
+    },
+    {
+      "blockId": 2,
+      "motionType": "ken_burns_slow_push",
+      "imagePath": "assets/case_the_lead_masks_case_of_1966/2_image.jpg",
+      "audioPath": "assets/case_the_lead_masks_case_of_1966/2_audio.mp3",
+      "audioDurationSec": 10.06
+    },
+    {
+      "blockId": 3,
+      "motionType": "ken_burns_pan_right",
+      "imagePath": "assets/case_the_lead_masks_case_of_1966/3_image.jpg",
+      "audioPath": "assets/case_the_lead_masks_case_of_1966/3_audio.mp3",
+      "audioDurationSec": 12.98
+    },
+    {
+      "blockId": 4,
+      "motionType": "ken_burns_pan_left",
+      "imagePath": "assets/case_the_lead_masks_case_of_1966/4_image.jpg",
+      "audioPath": "assets/case_the_lead_masks_case_of_1966/4_audio.mp3",
+      "audioDurationSec": 8.96
+    },
+    {
+      "blockId": 5,
+      "motionType": "kling_i2v_scare",
+      "imagePath": "assets/case_the_lead_masks_case_of_1966/5_image.jpg",
+      "audioPath": "assets/case_the_lead_masks_case_of_1966/5_audio.mp3",
+      "videoPath": "assets/case_the_lead_masks_case_of_1966/5_scare.mp4",
+      "audioDurationSec": 5.85
+    }
+  ],
+  "ambientLayers": {
+    "droneAudio": "assets/shared/drone_audio.mp3",
+    "vhsStatic": "assets/shared/vhs_static.mp3"
+  },
+  "captions": [
+    {
+      "blockId": 1,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Department",
+              "start": 0.0,
+              "end": 0.48
+            },
+            {
+              "word": "of",
+              "start": 0.48,
+              "end": 0.74
+            },
+            {
+              "word": "the",
+              "start": 0.74,
+              "end": 1.28
+            }
+          ],
+          "start": 0.0,
+          "end": 1.28
+        },
+        {
+          "words": [
+            {
+              "word": "Unknown",
+              "start": 1.28,
+              "end": 1.68
+            },
+            {
+              "word": "Case",
+              "start": 2.64,
+              "end": 3.44
+            },
+            {
+              "word": "file",
+              "start": 3.44,
+              "end": 3.72
+            }
+          ],
+          "start": 1.28,
+          "end": 3.72
+        },
+        {
+          "words": [
+            {
+              "word": "May",
+              "start": 3.92,
+              "end": 3.92
+            },
+            {
+              "word": "1966",
+              "start": 3.92,
+              "end": 5.08
+            },
+            {
+              "word": "08",
+              "start": 5.36,
+              "end": 6.14
+            }
+          ],
+          "start": 3.92,
+          "end": 6.14
+        },
+        {
+          "words": [
+            {
+              "word": "Vintem",
+              "start": 6.6,
+              "end": 7.4
+            },
+            {
+              "word": "Hill",
+              "start": 7.4,
+              "end": 7.98
+            },
+            {
+              "word": "Niteroi",
+              "start": 8.28,
+              "end": 8.54
+            }
+          ],
+          "start": 6.6,
+          "end": 8.54
+        },
+        {
+          "words": [
+            {
+              "word": "Brazil",
+              "start": 9.34,
+              "end": 9.34
+            },
+            {
+              "word": "Two",
+              "start": 9.64,
+              "end": 10.44
+            },
+            {
+              "word": "bodies",
+              "start": 10.44,
+              "end": 10.76
+            }
+          ],
+          "start": 9.34,
+          "end": 10.76
+        },
+        {
+          "words": [
+            {
+              "word": "discovered",
+              "start": 10.76,
+              "end": 11.22
+            },
+            {
+              "word": "in",
+              "start": 11.22,
+              "end": 11.54
+            },
+            {
+              "word": "formal",
+              "start": 11.54,
+              "end": 11.86
+            }
+          ],
+          "start": 10.76,
+          "end": 11.86
+        },
+        {
+          "words": [
+            {
+              "word": "attire",
+              "start": 11.86,
+              "end": 12.24
+            }
+          ],
+          "start": 11.86,
+          "end": 12.24
+        }
+      ]
+    },
+    {
+      "blockId": 2,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Manuel",
+              "start": 0.0,
+              "end": 0.54
+            },
+            {
+              "word": "Pereira",
+              "start": 0.54,
+              "end": 1.02
+            },
+            {
+              "word": "da",
+              "start": 1.02,
+              "end": 1.28
+            }
+          ],
+          "start": 0.0,
+          "end": 1.28
+        },
+        {
+          "words": [
+            {
+              "word": "Cruz",
+              "start": 1.28,
+              "end": 1.52
+            },
+            {
+              "word": "and",
+              "start": 1.52,
+              "end": 1.74
+            },
+            {
+              "word": "Miguel",
+              "start": 1.74,
+              "end": 2.0
+            }
+          ],
+          "start": 1.28,
+          "end": 2.0
+        },
+        {
+          "words": [
+            {
+              "word": "Jose",
+              "start": 2.0,
+              "end": 2.36
+            },
+            {
+              "word": "Viana",
+              "start": 2.36,
+              "end": 2.84
+            },
+            {
+              "word": "lay",
+              "start": 2.84,
+              "end": 3.24
+            }
+          ],
+          "start": 2.0,
+          "end": 3.24
+        },
+        {
+          "words": [
+            {
+              "word": "motionless",
+              "start": 3.24,
+              "end": 3.8
+            },
+            {
+              "word": "in",
+              "start": 3.8,
+              "end": 4.14
+            },
+            {
+              "word": "dark",
+              "start": 4.14,
+              "end": 4.42
+            }
+          ],
+          "start": 3.24,
+          "end": 4.42
+        },
+        {
+          "words": [
+            {
+              "word": "suits",
+              "start": 4.42,
+              "end": 4.72
+            },
+            {
+              "word": "beneath",
+              "start": 4.72,
+              "end": 5.12
+            },
+            {
+              "word": "waterproof",
+              "start": 5.12,
+              "end": 5.62
+            }
+          ],
+          "start": 4.42,
+          "end": 5.62
+        },
+        {
+          "words": [
+            {
+              "word": "coats",
+              "start": 5.62,
+              "end": 6.12
+            },
+            {
+              "word": "Crude",
+              "start": 7.44,
+              "end": 7.66
+            },
+            {
+              "word": "lead",
+              "start": 7.66,
+              "end": 8.06
+            }
+          ],
+          "start": 5.62,
+          "end": 8.06
+        },
+        {
+          "words": [
+            {
+              "word": "masks",
+              "start": 8.06,
+              "end": 8.58
+            },
+            {
+              "word": "covered",
+              "start": 8.58,
+              "end": 9.02
+            },
+            {
+              "word": "their",
+              "start": 9.02,
+              "end": 9.3
+            }
+          ],
+          "start": 8.06,
+          "end": 9.3
+        },
+        {
+          "words": [
+            {
+              "word": "eyes",
+              "start": 9.3,
+              "end": 9.7
+            }
+          ],
+          "start": 9.3,
+          "end": 9.7
+        }
+      ]
+    },
+    {
+      "blockId": 3,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "A",
+              "start": 0.0,
+              "end": 0.24
+            },
+            {
+              "word": "notebook",
+              "start": 0.24,
+              "end": 0.58
+            },
+            {
+              "word": "beside",
+              "start": 0.58,
+              "end": 0.98
+            }
+          ],
+          "start": 0.0,
+          "end": 0.98
+        },
+        {
+          "words": [
+            {
+              "word": "them",
+              "start": 0.98,
+              "end": 1.22
+            },
+            {
+              "word": "contained",
+              "start": 1.22,
+              "end": 1.62
+            },
+            {
+              "word": "precise",
+              "start": 1.62,
+              "end": 2.16
+            }
+          ],
+          "start": 0.98,
+          "end": 2.16
+        },
+        {
+          "words": [
+            {
+              "word": "instructions",
+              "start": 2.16,
+              "end": 2.78
+            },
+            {
+              "word": "1630",
+              "start": 4.2,
+              "end": 5.0
+            },
+            {
+              "word": "be",
+              "start": 5.8,
+              "end": 6.04
+            }
+          ],
+          "start": 2.16,
+          "end": 6.04
+        },
+        {
+          "words": [
+            {
+              "word": "at",
+              "start": 6.04,
+              "end": 6.22
+            },
+            {
+              "word": "agreed",
+              "start": 6.22,
+              "end": 6.42
+            },
+            {
+              "word": "place",
+              "start": 6.42,
+              "end": 6.9
+            }
+          ],
+          "start": 6.04,
+          "end": 6.9
+        },
+        {
+          "words": [
+            {
+              "word": "1830",
+              "start": 7.98,
+              "end": 8.78
+            },
+            {
+              "word": "swallow",
+              "start": 9.92,
+              "end": 9.94
+            },
+            {
+              "word": "capsules",
+              "start": 9.94,
+              "end": 10.6
+            }
+          ],
+          "start": 7.98,
+          "end": 10.6
+        },
+        {
+          "words": [
+            {
+              "word": "wait",
+              "start": 11.76,
+              "end": 11.8
+            },
+            {
+              "word": "for",
+              "start": 11.8,
+              "end": 12.0
+            },
+            {
+              "word": "mask",
+              "start": 12.0,
+              "end": 12.32
+            }
+          ],
+          "start": 11.76,
+          "end": 12.32
+        },
+        {
+          "words": [
+            {
+              "word": "signal",
+              "start": 12.32,
+              "end": 12.6
+            }
+          ],
+          "start": 12.32,
+          "end": 12.6
+        }
+      ]
+    },
+    {
+      "blockId": 4,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Autopsies",
+              "start": 0.0,
+              "end": 0.68
+            },
+            {
+              "word": "revealed",
+              "start": 0.68,
+              "end": 1.04
+            },
+            {
+              "word": "no",
+              "start": 1.04,
+              "end": 1.34
+            }
+          ],
+          "start": 0.0,
+          "end": 1.34
+        },
+        {
+          "words": [
+            {
+              "word": "trauma",
+              "start": 1.34,
+              "end": 1.68
+            },
+            {
+              "word": "no",
+              "start": 1.96,
+              "end": 2.16
+            },
+            {
+              "word": "struggle",
+              "start": 2.16,
+              "end": 2.46
+            }
+          ],
+          "start": 1.34,
+          "end": 2.46
+        },
+        {
+          "words": [
+            {
+              "word": "no",
+              "start": 2.68,
+              "end": 2.82
+            },
+            {
+              "word": "defensive",
+              "start": 2.82,
+              "end": 3.22
+            },
+            {
+              "word": "wounds",
+              "start": 3.22,
+              "end": 3.68
+            }
+          ],
+          "start": 2.68,
+          "end": 3.68
+        },
+        {
+          "words": [
+            {
+              "word": "Toxicology",
+              "start": 5.08,
+              "end": 5.6
+            },
+            {
+              "word": "tests",
+              "start": 5.6,
+              "end": 6.06
+            },
+            {
+              "word": "proved",
+              "start": 6.06,
+              "end": 6.48
+            }
+          ],
+          "start": 5.08,
+          "end": 6.48
+        },
+        {
+          "words": [
+            {
+              "word": "inconclusive",
+              "start": 6.48,
+              "end": 7.34
+            },
+            {
+              "word": "due",
+              "start": 7.34,
+              "end": 7.6
+            },
+            {
+              "word": "to",
+              "start": 7.6,
+              "end": 7.88
+            }
+          ],
+          "start": 6.48,
+          "end": 7.88
+        },
+        {
+          "words": [
+            {
+              "word": "decomposition",
+              "start": 7.88,
+              "end": 8.34
+            }
+          ],
+          "start": 7.88,
+          "end": 8.34
+        }
+      ]
+    },
+    {
+      "blockId": 5,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 0.0,
+              "end": 0.26
+            },
+            {
+              "word": "signal",
+              "start": 0.26,
+              "end": 0.54
+            },
+            {
+              "word": "they",
+              "start": 0.54,
+              "end": 0.8
+            }
+          ],
+          "start": 0.0,
+          "end": 0.8
+        },
+        {
+          "words": [
+            {
+              "word": "waited",
+              "start": 0.8,
+              "end": 1.02
+            },
+            {
+              "word": "for",
+              "start": 1.02,
+              "end": 1.44
+            },
+            {
+              "word": "never",
+              "start": 1.44,
+              "end": 1.64
+            }
+          ],
+          "start": 0.8,
+          "end": 1.64
+        },
+        {
+          "words": [
+            {
+              "word": "came",
+              "start": 1.64,
+              "end": 2.06
+            },
+            {
+              "word": "or",
+              "start": 3.08,
+              "end": 3.26
+            },
+            {
+              "word": "perhaps",
+              "start": 3.26,
+              "end": 3.54
+            }
+          ],
+          "start": 1.64,
+          "end": 3.54
+        },
+        {
+          "words": [
+            {
+              "word": "it",
+              "start": 3.54,
+              "end": 3.74
+            },
+            {
+              "word": "did",
+              "start": 3.74,
+              "end": 3.96
+            },
+            {
+              "word": "and",
+              "start": 4.14,
+              "end": 4.16
+            }
+          ],
+          "start": 3.54,
+          "end": 4.16
+        },
+        {
+          "words": [
+            {
+              "word": "we",
+              "start": 4.16,
+              "end": 4.36
+            },
+            {
+              "word": "simply",
+              "start": 4.36,
+              "end": 4.64
+            },
+            {
+              "word": "cannot",
+              "start": 4.64,
+              "end": 5.06
+            }
+          ],
+          "start": 4.16,
+          "end": 5.06
+        },
+        {
+          "words": [
+            {
+              "word": "hear",
+              "start": 5.06,
+              "end": 5.34
+            },
+            {
+              "word": "it",
+              "start": 5.34,
+              "end": 5.54
+            }
+          ],
+          "start": 5.06,
+          "end": 5.54
+        }
+      ]
+    }
+  ]
+}

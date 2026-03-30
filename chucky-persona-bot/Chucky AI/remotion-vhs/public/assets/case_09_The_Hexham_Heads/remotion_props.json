@@ -1,0 +1,784 @@
+{
+  "caseId": "09_The_Hexham_Heads",
+  "sequences": [
+    {
+      "blockId": 1,
+      "motionType": "ken_burns_zoom_in",
+      "imagePath": "assets/case_09_The_Hexham_Heads/1_image.jpg",
+      "audioPath": "assets/case_09_The_Hexham_Heads/1_audio.mp3",
+      "audioDurationSec": 6.87
+    },
+    {
+      "blockId": 2,
+      "motionType": "ken_burns_pan_right",
+      "imagePath": "assets/case_09_The_Hexham_Heads/2_image.jpg",
+      "audioPath": "assets/case_09_The_Hexham_Heads/2_audio.mp3",
+      "audioDurationSec": 6.87
+    },
+    {
+      "blockId": 3,
+      "motionType": "ken_burns_slow_push",
+      "imagePath": "assets/case_09_The_Hexham_Heads/3_image.jpg",
+      "audioPath": "assets/case_09_The_Hexham_Heads/3_audio.mp3",
+      "audioDurationSec": 9.09
+    },
+    {
+      "blockId": 4,
+      "motionType": "ken_burns_pan_left",
+      "imagePath": "assets/case_09_The_Hexham_Heads/4_image.jpg",
+      "audioPath": "assets/case_09_The_Hexham_Heads/4_audio.mp3",
+      "audioDurationSec": 6.3
+    },
+    {
+      "blockId": 5,
+      "motionType": "kling_i2v_scare",
+      "imagePath": "assets/case_09_The_Hexham_Heads/5_image.jpg",
+      "audioPath": "assets/case_09_The_Hexham_Heads/5_audio.mp3",
+      "videoPath": "assets/case_09_The_Hexham_Heads/5_scare.mp4",
+      "audioDurationSec": 9.2
+    }
+  ],
+  "ambientLayers": {
+    "droneAudio": "assets/shared/drone_audio.mp3",
+    "vhsStatic": "assets/shared/vhs_static.mp3"
+  },
+  "captions": [
+    {
+      "blockId": 1,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Department",
+              "start": 0.0,
+              "end": 0.46
+            },
+            {
+              "word": "of",
+              "start": 0.46,
+              "end": 0.6
+            },
+            {
+              "word": "the",
+              "start": 0.6,
+              "end": 0.92
+            }
+          ],
+          "start": 0.0,
+          "end": 0.92
+        },
+        {
+          "words": [
+            {
+              "word": "Unknown",
+              "start": 0.92,
+              "end": 1.06
+            },
+            {
+              "word": "has",
+              "start": 1.06,
+              "end": 1.36
+            },
+            {
+              "word": "encountered",
+              "start": 1.36,
+              "end": 1.74
+            }
+          ],
+          "start": 0.92,
+          "end": 1.74
+        },
+        {
+          "words": [
+            {
+              "word": "a",
+              "start": 1.74,
+              "end": 2.0
+            },
+            {
+              "word": "critical",
+              "start": 2.0,
+              "end": 2.3
+            },
+            {
+              "word": "gap",
+              "start": 2.3,
+              "end": 2.62
+            }
+          ],
+          "start": 1.74,
+          "end": 2.62
+        },
+        {
+          "words": [
+            {
+              "word": "in",
+              "start": 2.62,
+              "end": 2.78
+            },
+            {
+              "word": "our",
+              "start": 2.78,
+              "end": 3.06
+            },
+            {
+              "word": "archives",
+              "start": 3.06,
+              "end": 3.48
+            }
+          ],
+          "start": 2.62,
+          "end": 3.48
+        },
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 3.94,
+              "end": 4.12
+            },
+            {
+              "word": "Hexham",
+              "start": 4.12,
+              "end": 4.34
+            },
+            {
+              "word": "Head's",
+              "start": 4.34,
+              "end": 4.68
+            }
+          ],
+          "start": 3.94,
+          "end": 4.68
+        },
+        {
+          "words": [
+            {
+              "word": "case",
+              "start": 4.68,
+              "end": 4.88
+            },
+            {
+              "word": "exists",
+              "start": 4.88,
+              "end": 5.24
+            },
+            {
+              "word": "only",
+              "start": 5.24,
+              "end": 5.6
+            }
+          ],
+          "start": 4.68,
+          "end": 5.6
+        },
+        {
+          "words": [
+            {
+              "word": "as",
+              "start": 5.6,
+              "end": 5.76
+            },
+            {
+              "word": "a",
+              "start": 5.76,
+              "end": 6.04
+            },
+            {
+              "word": "designation",
+              "start": 6.04,
+              "end": 6.26
+            }
+          ],
+          "start": 5.6,
+          "end": 6.26
+        }
+      ]
+    },
+    {
+      "blockId": 2,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "No",
+              "start": 0.0,
+              "end": 0.28
+            },
+            {
+              "word": "photographs",
+              "start": 0.28,
+              "end": 0.76
+            },
+            {
+              "word": "remain",
+              "start": 0.76,
+              "end": 1.14
+            }
+          ],
+          "start": 0.0,
+          "end": 1.14
+        },
+        {
+          "words": [
+            {
+              "word": "in",
+              "start": 1.14,
+              "end": 1.28
+            },
+            {
+              "word": "our",
+              "start": 1.28,
+              "end": 1.52
+            },
+            {
+              "word": "files",
+              "start": 1.52,
+              "end": 1.88
+            }
+          ],
+          "start": 1.14,
+          "end": 1.88
+        },
+        {
+          "words": [
+            {
+              "word": "No",
+              "start": 2.36,
+              "end": 2.44
+            },
+            {
+              "word": "witness",
+              "start": 2.44,
+              "end": 2.72
+            },
+            {
+              "word": "statements",
+              "start": 2.72,
+              "end": 3.1
+            }
+          ],
+          "start": 2.36,
+          "end": 3.1
+        },
+        {
+          "words": [
+            {
+              "word": "survive",
+              "start": 3.1,
+              "end": 3.58
+            },
+            {
+              "word": "digitization",
+              "start": 3.58,
+              "end": 4.34
+            }
+          ],
+          "start": 3.1,
+          "end": 4.34
+        },
+        {
+          "words": [
+            {
+              "word": "Only",
+              "start": 5.0,
+              "end": 5.12
+            },
+            {
+              "word": "the",
+              "start": 5.12,
+              "end": 5.32
+            },
+            {
+              "word": "case",
+              "start": 5.32,
+              "end": 5.62
+            }
+          ],
+          "start": 5.0,
+          "end": 5.62
+        },
+        {
+          "words": [
+            {
+              "word": "name",
+              "start": 5.62,
+              "end": 5.9
+            },
+            {
+              "word": "persists",
+              "start": 5.9,
+              "end": 6.46
+            }
+          ],
+          "start": 5.62,
+          "end": 6.46
+        }
+      ]
+    },
+    {
+      "blockId": 3,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Our",
+              "start": 0.0,
+              "end": 0.28
+            },
+            {
+              "word": "field",
+              "start": 0.28,
+              "end": 0.54
+            },
+            {
+              "word": "researchers",
+              "start": 0.54,
+              "end": 1.0
+            }
+          ],
+          "start": 0.0,
+          "end": 1.0
+        },
+        {
+          "words": [
+            {
+              "word": "report",
+              "start": 1.0,
+              "end": 1.44
+            },
+            {
+              "word": "that",
+              "start": 1.44,
+              "end": 1.76
+            },
+            {
+              "word": "physical",
+              "start": 1.76,
+              "end": 2.12
+            }
+          ],
+          "start": 1.0,
+          "end": 2.12
+        },
+        {
+          "words": [
+            {
+              "word": "evidence",
+              "start": 2.12,
+              "end": 2.56
+            },
+            {
+              "word": "vanishes",
+              "start": 2.56,
+              "end": 3.0
+            },
+            {
+              "word": "the",
+              "start": 3.0,
+              "end": 3.38
+            }
+          ],
+          "start": 2.12,
+          "end": 3.38
+        },
+        {
+          "words": [
+            {
+              "word": "moment",
+              "start": 3.38,
+              "end": 3.64
+            },
+            {
+              "word": "they",
+              "start": 3.64,
+              "end": 3.88
+            },
+            {
+              "word": "attempt",
+              "start": 3.88,
+              "end": 4.18
+            }
+          ],
+          "start": 3.38,
+          "end": 4.18
+        },
+        {
+          "words": [
+            {
+              "word": "documentation",
+              "start": 4.18,
+              "end": 5.06
+            }
+          ],
+          "start": 4.18,
+          "end": 5.06
+        },
+        {
+          "words": [
+            {
+              "word": "Cameras",
+              "start": 6.26,
+              "end": 6.32
+            },
+            {
+              "word": "malfunction",
+              "start": 6.32,
+              "end": 6.9
+            },
+            {
+              "word": "when",
+              "start": 6.9,
+              "end": 7.4
+            }
+          ],
+          "start": 6.26,
+          "end": 7.4
+        },
+        {
+          "words": [
+            {
+              "word": "pointed",
+              "start": 7.4,
+              "end": 7.62
+            },
+            {
+              "word": "at",
+              "start": 7.62,
+              "end": 7.9
+            },
+            {
+              "word": "the",
+              "start": 7.9,
+              "end": 8.18
+            }
+          ],
+          "start": 7.4,
+          "end": 8.18
+        },
+        {
+          "words": [
+            {
+              "word": "artifacts",
+              "start": 8.18,
+              "end": 8.4
+            }
+          ],
+          "start": 8.18,
+          "end": 8.4
+        }
+      ]
+    },
+    {
+      "blockId": 4,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Three",
+              "start": 0.0,
+              "end": 0.4
+            },
+            {
+              "word": "separate",
+              "start": 0.4,
+              "end": 0.8
+            },
+            {
+              "word": "archive",
+              "start": 0.8,
+              "end": 1.36
+            }
+          ],
+          "start": 0.0,
+          "end": 1.36
+        },
+        {
+          "words": [
+            {
+              "word": "teams",
+              "start": 1.36,
+              "end": 1.7
+            },
+            {
+              "word": "have",
+              "start": 1.7,
+              "end": 1.9
+            },
+            {
+              "word": "been",
+              "start": 1.9,
+              "end": 2.08
+            }
+          ],
+          "start": 1.36,
+          "end": 2.08
+        },
+        {
+          "words": [
+            {
+              "word": "assigned",
+              "start": 2.08,
+              "end": 2.38
+            },
+            {
+              "word": "to",
+              "start": 2.38,
+              "end": 2.64
+            },
+            {
+              "word": "this",
+              "start": 2.64,
+              "end": 2.9
+            }
+          ],
+          "start": 2.08,
+          "end": 2.9
+        },
+        {
+          "words": [
+            {
+              "word": "file",
+              "start": 2.9,
+              "end": 3.24
+            }
+          ],
+          "start": 2.9,
+          "end": 3.24
+        },
+        {
+          "words": [
+            {
+              "word": "None",
+              "start": 3.92,
+              "end": 4.02
+            },
+            {
+              "word": "remember",
+              "start": 4.02,
+              "end": 4.38
+            },
+            {
+              "word": "what",
+              "start": 4.38,
+              "end": 4.64
+            }
+          ],
+          "start": 3.92,
+          "end": 4.64
+        },
+        {
+          "words": [
+            {
+              "word": "they",
+              "start": 4.64,
+              "end": 4.78
+            },
+            {
+              "word": "were",
+              "start": 4.78,
+              "end": 5.0
+            },
+            {
+              "word": "supposed",
+              "start": 5.0,
+              "end": 5.18
+            }
+          ],
+          "start": 4.64,
+          "end": 5.18
+        },
+        {
+          "words": [
+            {
+              "word": "to",
+              "start": 5.18,
+              "end": 5.62
+            },
+            {
+              "word": "catalog",
+              "start": 5.62,
+              "end": 5.66
+            }
+          ],
+          "start": 5.18,
+          "end": 5.66
+        }
+      ]
+    },
+    {
+      "blockId": 5,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 0.0,
+              "end": 0.18
+            },
+            {
+              "word": "case",
+              "start": 0.18,
+              "end": 0.44
+            },
+            {
+              "word": "appears",
+              "start": 0.44,
+              "end": 0.72
+            }
+          ],
+          "start": 0.0,
+          "end": 0.72
+        },
+        {
+          "words": [
+            {
+              "word": "to",
+              "start": 0.72,
+              "end": 1.22
+            },
+            {
+              "word": "possess",
+              "start": 1.22,
+              "end": 1.22
+            },
+            {
+              "word": "an",
+              "start": 1.22,
+              "end": 1.5
+            }
+          ],
+          "start": 0.72,
+          "end": 1.5
+        },
+        {
+          "words": [
+            {
+              "word": "active",
+              "start": 1.5,
+              "end": 1.8
+            },
+            {
+              "word": "resistance",
+              "start": 1.8,
+              "end": 2.36
+            },
+            {
+              "word": "to",
+              "start": 2.36,
+              "end": 2.7
+            }
+          ],
+          "start": 1.5,
+          "end": 2.7
+        },
+        {
+          "words": [
+            {
+              "word": "observation",
+              "start": 2.7,
+              "end": 3.18
+            }
+          ],
+          "start": 2.7,
+          "end": 3.18
+        },
+        {
+          "words": [
+            {
+              "word": "Some",
+              "start": 3.9,
+              "end": 3.9
+            },
+            {
+              "word": "cases",
+              "start": 3.9,
+              "end": 4.24
+            },
+            {
+              "word": "refuse",
+              "start": 4.24,
+              "end": 4.62
+            }
+          ],
+          "start": 3.9,
+          "end": 4.62
+        },
+        {
+          "words": [
+            {
+              "word": "to",
+              "start": 4.62,
+              "end": 4.82
+            },
+            {
+              "word": "be",
+              "start": 4.82,
+              "end": 5.14
+            },
+            {
+              "word": "documented",
+              "start": 5.14,
+              "end": 5.58
+            }
+          ],
+          "start": 4.62,
+          "end": 5.58
+        },
+        {
+          "words": [
+            {
+              "word": "erasing",
+              "start": 6.26,
+              "end": 6.36
+            },
+            {
+              "word": "themselves",
+              "start": 6.36,
+              "end": 6.9
+            },
+            {
+              "word": "from",
+              "start": 6.9,
+              "end": 7.2
+            }
+          ],
+          "start": 6.26,
+          "end": 7.2
+        },
+        {
+          "words": [
+            {
+              "word": "every",
+              "start": 7.2,
+              "end": 7.56
+            },
+            {
+              "word": "attempt",
+              "start": 7.56,
+              "end": 7.82
+            },
+            {
+              "word": "at",
+              "start": 7.82,
+              "end": 8.18
+            }
+          ],
+          "start": 7.2,
+          "end": 8.18
+        },
+        {
+          "words": [
+            {
+              "word": "classification",
+              "start": 8.18,
+              "end": 8.52
+            }
+          ],
+          "start": 8.18,
+          "end": 8.52
+        }
+      ]
+    }
+  ]
+}

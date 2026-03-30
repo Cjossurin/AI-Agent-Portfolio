@@ -1,0 +1,776 @@
+[
+  {
+    "blockId": 1,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "In",
+            "start": 0.0,
+            "end": 0.32
+          },
+          {
+            "word": "April",
+            "start": 0.32,
+            "end": 0.64
+          },
+          {
+            "word": "1973",
+            "start": 0.64,
+            "end": 1.64
+          }
+        ],
+        "start": 0.0,
+        "end": 1.64
+      },
+      {
+        "words": [
+          {
+            "word": "something",
+            "start": 2.06,
+            "end": 2.36
+          },
+          {
+            "word": "with",
+            "start": 2.36,
+            "end": 2.62
+          },
+          {
+            "word": "three",
+            "start": 2.62,
+            "end": 2.94
+          }
+        ],
+        "start": 2.06,
+        "end": 2.94
+      },
+      {
+        "words": [
+          {
+            "word": "legs",
+            "start": 2.94,
+            "end": 3.3
+          },
+          {
+            "word": "and",
+            "start": 3.3,
+            "end": 3.6
+          },
+          {
+            "word": "glowing",
+            "start": 3.6,
+            "end": 3.88
+          }
+        ],
+        "start": 2.94,
+        "end": 3.88
+      },
+      {
+        "words": [
+          {
+            "word": "red",
+            "start": 3.88,
+            "end": 4.24
+          },
+          {
+            "word": "eyes",
+            "start": 4.24,
+            "end": 4.64
+          },
+          {
+            "word": "stalked",
+            "start": 4.64,
+            "end": 5.16
+          }
+        ],
+        "start": 3.88,
+        "end": 5.16
+      },
+      {
+        "words": [
+          {
+            "word": "the",
+            "start": 5.16,
+            "end": 5.68
+          },
+          {
+            "word": "woods",
+            "start": 5.68,
+            "end": 5.68
+          },
+          {
+            "word": "outside",
+            "start": 5.68,
+            "end": 6.26
+          }
+        ],
+        "start": 5.16,
+        "end": 6.26
+      },
+      {
+        "words": [
+          {
+            "word": "Enfield",
+            "start": 6.26,
+            "end": 6.8
+          }
+        ],
+        "start": 6.26,
+        "end": 6.8
+      },
+      {
+        "words": [
+          {
+            "word": "Illinois",
+            "start": 7.4,
+            "end": 7.4
+          }
+        ],
+        "start": 7.4,
+        "end": 7.4
+      },
+      {
+        "words": [
+          {
+            "word": "The",
+            "start": 8.6,
+            "end": 8.88
+          },
+          {
+            "word": "McDaniel",
+            "start": 8.88,
+            "end": 9.32
+          },
+          {
+            "word": "family",
+            "start": 9.32,
+            "end": 9.8
+          }
+        ],
+        "start": 8.6,
+        "end": 9.8
+      },
+      {
+        "words": [
+          {
+            "word": "heard",
+            "start": 9.8,
+            "end": 10.04
+          },
+          {
+            "word": "it",
+            "start": 10.04,
+            "end": 10.36
+          },
+          {
+            "word": "first",
+            "start": 10.36,
+            "end": 10.6
+          }
+        ],
+        "start": 9.8,
+        "end": 10.6
+      }
+    ]
+  },
+  {
+    "blockId": 2,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "A",
+            "start": 0.0,
+            "end": 0.38
+          },
+          {
+            "word": "shriek",
+            "start": 0.38,
+            "end": 0.62
+          },
+          {
+            "word": "like",
+            "start": 0.62,
+            "end": 0.92
+          }
+        ],
+        "start": 0.0,
+        "end": 0.92
+      },
+      {
+        "words": [
+          {
+            "word": "metal",
+            "start": 0.92,
+            "end": 1.22
+          },
+          {
+            "word": "tearing",
+            "start": 1.22,
+            "end": 1.52
+          },
+          {
+            "word": "through",
+            "start": 1.52,
+            "end": 1.82
+          }
+        ],
+        "start": 0.92,
+        "end": 1.82
+      },
+      {
+        "words": [
+          {
+            "word": "bone",
+            "start": 1.82,
+            "end": 2.18
+          },
+          {
+            "word": "echoed",
+            "start": 2.18,
+            "end": 2.66
+          },
+          {
+            "word": "from",
+            "start": 2.66,
+            "end": 2.8
+          }
+        ],
+        "start": 1.82,
+        "end": 2.8
+      },
+      {
+        "words": [
+          {
+            "word": "their",
+            "start": 2.8,
+            "end": 3.08
+          },
+          {
+            "word": "backyard",
+            "start": 3.08,
+            "end": 3.5
+          },
+          {
+            "word": "at",
+            "start": 3.5,
+            "end": 3.86
+          }
+        ],
+        "start": 2.8,
+        "end": 3.86
+      },
+      {
+        "words": [
+          {
+            "word": "midnight",
+            "start": 3.86,
+            "end": 4.2
+          }
+        ],
+        "start": 3.86,
+        "end": 4.2
+      },
+      {
+        "words": [
+          {
+            "word": "When",
+            "start": 5.58,
+            "end": 5.8
+          },
+          {
+            "word": "Henry",
+            "start": 5.8,
+            "end": 6.08
+          },
+          {
+            "word": "McDaniel",
+            "start": 6.08,
+            "end": 6.56
+          }
+        ],
+        "start": 5.58,
+        "end": 6.56
+      },
+      {
+        "words": [
+          {
+            "word": "stepped",
+            "start": 6.56,
+            "end": 6.9
+          },
+          {
+            "word": "outside",
+            "start": 6.9,
+            "end": 7.34
+          },
+          {
+            "word": "with",
+            "start": 7.34,
+            "end": 7.54
+          }
+        ],
+        "start": 6.56,
+        "end": 7.54
+      },
+      {
+        "words": [
+          {
+            "word": "his",
+            "start": 7.54,
+            "end": 7.78
+          },
+          {
+            "word": "flashlight",
+            "start": 7.78,
+            "end": 8.18
+          }
+        ],
+        "start": 7.54,
+        "end": 8.18
+      },
+      {
+        "words": [
+          {
+            "word": "the",
+            "start": 8.6,
+            "end": 8.74
+          },
+          {
+            "word": "beam",
+            "start": 8.74,
+            "end": 8.98
+          },
+          {
+            "word": "caught",
+            "start": 8.98,
+            "end": 9.4
+          }
+        ],
+        "start": 8.6,
+        "end": 9.4
+      },
+      {
+        "words": [
+          {
+            "word": "something",
+            "start": 9.4,
+            "end": 9.76
+          },
+          {
+            "word": "impossible",
+            "start": 9.76,
+            "end": 10.22
+          }
+        ],
+        "start": 9.4,
+        "end": 10.22
+      }
+    ]
+  },
+  {
+    "blockId": 3,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "Nine",
+            "start": 0.0,
+            "end": 0.42
+          },
+          {
+            "word": "feet",
+            "start": 0.42,
+            "end": 0.68
+          },
+          {
+            "word": "tall",
+            "start": 0.68,
+            "end": 1.1
+          }
+        ],
+        "start": 0.0,
+        "end": 1.1
+      },
+      {
+        "words": [
+          {
+            "word": "gray",
+            "start": 1.62,
+            "end": 1.78
+          },
+          {
+            "word": "skin",
+            "start": 1.78,
+            "end": 2.1
+          },
+          {
+            "word": "like",
+            "start": 2.1,
+            "end": 2.42
+          }
+        ],
+        "start": 1.62,
+        "end": 2.42
+      },
+      {
+        "words": [
+          {
+            "word": "wet",
+            "start": 2.42,
+            "end": 2.68
+          },
+          {
+            "word": "concrete",
+            "start": 2.68,
+            "end": 3.2
+          }
+        ],
+        "start": 2.42,
+        "end": 3.2
+      },
+      {
+        "words": [
+          {
+            "word": "arms",
+            "start": 3.96,
+            "end": 3.96
+          },
+          {
+            "word": "that",
+            "start": 3.96,
+            "end": 4.54
+          },
+          {
+            "word": "dragged",
+            "start": 4.54,
+            "end": 4.54
+          }
+        ],
+        "start": 3.96,
+        "end": 4.54
+      },
+      {
+        "words": [
+          {
+            "word": "on",
+            "start": 4.54,
+            "end": 4.78
+          },
+          {
+            "word": "the",
+            "start": 4.78,
+            "end": 4.96
+          },
+          {
+            "word": "ground",
+            "start": 4.96,
+            "end": 5.68
+          }
+        ],
+        "start": 4.54,
+        "end": 5.68
+      },
+      {
+        "words": [
+          {
+            "word": "It",
+            "start": 6.72,
+            "end": 7.38
+          },
+          {
+            "word": "hissed",
+            "start": 7.38,
+            "end": 7.72
+          },
+          {
+            "word": "when",
+            "start": 7.72,
+            "end": 7.84
+          }
+        ],
+        "start": 6.72,
+        "end": 7.84
+      },
+      {
+        "words": [
+          {
+            "word": "the",
+            "start": 7.84,
+            "end": 8.14
+          },
+          {
+            "word": "light",
+            "start": 8.14,
+            "end": 8.22
+          },
+          {
+            "word": "hit",
+            "start": 8.22,
+            "end": 8.42
+          }
+        ],
+        "start": 7.84,
+        "end": 8.42
+      },
+      {
+        "words": [
+          {
+            "word": "it",
+            "start": 8.42,
+            "end": 8.7
+          },
+          {
+            "word": "then",
+            "start": 8.96,
+            "end": 9.14
+          },
+          {
+            "word": "bounded",
+            "start": 9.14,
+            "end": 9.48
+          }
+        ],
+        "start": 8.42,
+        "end": 9.48
+      },
+      {
+        "words": [
+          {
+            "word": "away",
+            "start": 9.48,
+            "end": 9.86
+          },
+          {
+            "word": "on",
+            "start": 9.86,
+            "end": 10.16
+          },
+          {
+            "word": "those",
+            "start": 10.16,
+            "end": 10.42
+          }
+        ],
+        "start": 9.48,
+        "end": 10.42
+      },
+      {
+        "words": [
+          {
+            "word": "three",
+            "start": 10.42,
+            "end": 10.94
+          },
+          {
+            "word": "grotesque",
+            "start": 10.94,
+            "end": 11.5
+          },
+          {
+            "word": "legs",
+            "start": 11.5,
+            "end": 11.9
+          }
+        ],
+        "start": 10.42,
+        "end": 11.9
+      }
+    ]
+  },
+  {
+    "blockId": 4,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "Two",
+            "start": 0.0,
+            "end": 0.38
+          },
+          {
+            "word": "more",
+            "start": 0.38,
+            "end": 0.7
+          },
+          {
+            "word": "families",
+            "start": 0.7,
+            "end": 1.16
+          }
+        ],
+        "start": 0.0,
+        "end": 1.16
+      },
+      {
+        "words": [
+          {
+            "word": "reported",
+            "start": 1.16,
+            "end": 1.72
+          },
+          {
+            "word": "identical",
+            "start": 1.72,
+            "end": 2.34
+          },
+          {
+            "word": "encounters",
+            "start": 2.34,
+            "end": 2.86
+          }
+        ],
+        "start": 1.16,
+        "end": 2.86
+      },
+      {
+        "words": [
+          {
+            "word": "that",
+            "start": 2.86,
+            "end": 3.26
+          },
+          {
+            "word": "same",
+            "start": 3.26,
+            "end": 3.6
+          },
+          {
+            "word": "week",
+            "start": 3.6,
+            "end": 3.86
+          }
+        ],
+        "start": 2.86,
+        "end": 3.86
+      },
+      {
+        "words": [
+          {
+            "word": "Then",
+            "start": 4.08,
+            "end": 4.5
+          },
+          {
+            "word": "the",
+            "start": 4.5,
+            "end": 4.72
+          },
+          {
+            "word": "sightings",
+            "start": 4.72,
+            "end": 5.14
+          }
+        ],
+        "start": 4.08,
+        "end": 5.14
+      },
+      {
+        "words": [
+          {
+            "word": "stopped",
+            "start": 5.14,
+            "end": 5.58
+          }
+        ],
+        "start": 5.14,
+        "end": 5.58
+      },
+      {
+        "words": [
+          {
+            "word": "The",
+            "start": 6.8,
+            "end": 7.04
+          },
+          {
+            "word": "case",
+            "start": 7.04,
+            "end": 7.3
+          },
+          {
+            "word": "remains",
+            "start": 7.3,
+            "end": 7.74
+          }
+        ],
+        "start": 6.8,
+        "end": 7.74
+      },
+      {
+        "words": [
+          {
+            "word": "open",
+            "start": 7.74,
+            "end": 8.14
+          },
+          {
+            "word": "in",
+            "start": 8.14,
+            "end": 8.3
+          },
+          {
+            "word": "the",
+            "start": 8.3,
+            "end": 8.82
+          }
+        ],
+        "start": 7.74,
+        "end": 8.82
+      },
+      {
+        "words": [
+          {
+            "word": "files",
+            "start": 8.82,
+            "end": 8.82
+          },
+          {
+            "word": "of",
+            "start": 8.82,
+            "end": 9.06
+          },
+          {
+            "word": "the",
+            "start": 9.06,
+            "end": 9.28
+          }
+        ],
+        "start": 8.82,
+        "end": 9.28
+      },
+      {
+        "words": [
+          {
+            "word": "Department",
+            "start": 9.28,
+            "end": 9.66
+          },
+          {
+            "word": "of",
+            "start": 9.66,
+            "end": 9.92
+          },
+          {
+            "word": "the",
+            "start": 9.92,
+            "end": 10.58
+          }
+        ],
+        "start": 9.28,
+        "end": 10.58
+      },
+      {
+        "words": [
+          {
+            "word": "Unknown",
+            "start": 10.58,
+            "end": 10.58
+          }
+        ],
+        "start": 10.58,
+        "end": 10.58
+      }
+    ]
+  }
+]

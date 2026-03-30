@@ -1,0 +1,1313 @@
+[
+  {
+    "blockId": 1,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "At",
+            "start": 0.0,
+            "end": 0.18
+          },
+          {
+            "word": "11",
+            "start": 0.18,
+            "end": 0.6
+          },
+          {
+            "word": "47",
+            "start": 0.6,
+            "end": 1.22
+          }
+        ],
+        "start": 0.0,
+        "end": 1.22
+      },
+      {
+        "words": [
+          {
+            "word": "PM",
+            "start": 1.22,
+            "end": 1.98
+          },
+          {
+            "word": "radio",
+            "start": 2.38,
+            "end": 2.72
+          },
+          {
+            "word": "technicians",
+            "start": 2.72,
+            "end": 3.24
+          }
+        ],
+        "start": 1.22,
+        "end": 3.24
+      },
+      {
+        "words": [
+          {
+            "word": "across",
+            "start": 3.24,
+            "end": 3.72
+          },
+          {
+            "word": "seven",
+            "start": 3.72,
+            "end": 4.2
+          },
+          {
+            "word": "states",
+            "start": 4.2,
+            "end": 4.58
+          }
+        ],
+        "start": 3.24,
+        "end": 4.58
+      },
+      {
+        "words": [
+          {
+            "word": "picked",
+            "start": 4.58,
+            "end": 4.86
+          },
+          {
+            "word": "up",
+            "start": 4.86,
+            "end": 5.08
+          },
+          {
+            "word": "the",
+            "start": 5.08,
+            "end": 5.22
+          }
+        ],
+        "start": 4.58,
+        "end": 5.22
+      },
+      {
+        "words": [
+          {
+            "word": "same",
+            "start": 5.22,
+            "end": 5.56
+          },
+          {
+            "word": "transmission",
+            "start": 5.56,
+            "end": 6.1
+          },
+          {
+            "word": "playing",
+            "start": 6.1,
+            "end": 6.5
+          }
+        ],
+        "start": 5.22,
+        "end": 6.5
+      },
+      {
+        "words": [
+          {
+            "word": "music",
+            "start": 6.5,
+            "end": 6.86
+          },
+          {
+            "word": "in",
+            "start": 6.86,
+            "end": 7.16
+          },
+          {
+            "word": "reverse",
+            "start": 7.16,
+            "end": 7.46
+          }
+        ],
+        "start": 6.5,
+        "end": 7.46
+      },
+      {
+        "words": [
+          {
+            "word": "The",
+            "start": 7.96,
+            "end": 8.14
+          },
+          {
+            "word": "frequency",
+            "start": 8.14,
+            "end": 8.5
+          },
+          {
+            "word": "didn't",
+            "start": 8.5,
+            "end": 8.9
+          }
+        ],
+        "start": 7.96,
+        "end": 8.9
+      },
+      {
+        "words": [
+          {
+            "word": "exist",
+            "start": 8.9,
+            "end": 9.24
+          },
+          {
+            "word": "on",
+            "start": 9.24,
+            "end": 9.5
+          },
+          {
+            "word": "any",
+            "start": 9.5,
+            "end": 9.78
+          }
+        ],
+        "start": 8.9,
+        "end": 9.78
+      },
+      {
+        "words": [
+          {
+            "word": "spectrum",
+            "start": 9.78,
+            "end": 10.08
+          },
+          {
+            "word": "analysis",
+            "start": 10.08,
+            "end": 10.58
+          }
+        ],
+        "start": 9.78,
+        "end": 10.58
+      },
+      {
+        "words": [
+          {
+            "word": "The",
+            "start": 11.24,
+            "end": 11.4
+          },
+          {
+            "word": "song",
+            "start": 11.4,
+            "end": 11.7
+          },
+          {
+            "word": "was",
+            "start": 11.7,
+            "end": 12.06
+          }
+        ],
+        "start": 11.24,
+        "end": 12.06
+      },
+      {
+        "words": [
+          {
+            "word": "Beethoven's",
+            "start": 12.06,
+            "end": 12.82
+          },
+          {
+            "word": "Ninth",
+            "start": 12.82,
+            "end": 13.16
+          },
+          {
+            "word": "Symphony",
+            "start": 13.16,
+            "end": 13.48
+          }
+        ],
+        "start": 12.06,
+        "end": 13.48
+      },
+      {
+        "words": [
+          {
+            "word": "but",
+            "start": 14.02,
+            "end": 14.14
+          },
+          {
+            "word": "it",
+            "start": 14.14,
+            "end": 14.28
+          },
+          {
+            "word": "had",
+            "start": 14.28,
+            "end": 14.4
+          }
+        ],
+        "start": 14.02,
+        "end": 14.4
+      },
+      {
+        "words": [
+          {
+            "word": "been",
+            "start": 14.4,
+            "end": 14.64
+          },
+          {
+            "word": "recorded",
+            "start": 14.64,
+            "end": 14.96
+          },
+          {
+            "word": "30",
+            "start": 14.96,
+            "end": 15.5
+          }
+        ],
+        "start": 14.4,
+        "end": 15.5
+      },
+      {
+        "words": [
+          {
+            "word": "years",
+            "start": 15.5,
+            "end": 15.84
+          },
+          {
+            "word": "in",
+            "start": 15.84,
+            "end": 16.04
+          },
+          {
+            "word": "the",
+            "start": 16.04,
+            "end": 16.18
+          }
+        ],
+        "start": 15.5,
+        "end": 16.18
+      },
+      {
+        "words": [
+          {
+            "word": "future",
+            "start": 16.18,
+            "end": 16.46
+          }
+        ],
+        "start": 16.18,
+        "end": 16.46
+      }
+    ]
+  },
+  {
+    "blockId": 2,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "Listeners",
+            "start": 0.0,
+            "end": 0.54
+          },
+          {
+            "word": "reported",
+            "start": 0.54,
+            "end": 0.92
+          },
+          {
+            "word": "their",
+            "start": 0.92,
+            "end": 1.28
+          }
+        ],
+        "start": 0.0,
+        "end": 1.28
+      },
+      {
+        "words": [
+          {
+            "word": "clocks",
+            "start": 1.28,
+            "end": 1.54
+          },
+          {
+            "word": "running",
+            "start": 1.54,
+            "end": 1.92
+          },
+          {
+            "word": "backwards",
+            "start": 1.92,
+            "end": 2.36
+          }
+        ],
+        "start": 1.28,
+        "end": 2.36
+      },
+      {
+        "words": [
+          {
+            "word": "while",
+            "start": 2.36,
+            "end": 2.66
+          },
+          {
+            "word": "the",
+            "start": 2.66,
+            "end": 2.86
+          },
+          {
+            "word": "broadcast",
+            "start": 2.86,
+            "end": 3.38
+          }
+        ],
+        "start": 2.36,
+        "end": 3.38
+      },
+      {
+        "words": [
+          {
+            "word": "played",
+            "start": 3.38,
+            "end": 3.96
+          }
+        ],
+        "start": 3.38,
+        "end": 3.96
+      },
+      {
+        "words": [
+          {
+            "word": "Security",
+            "start": 5.0,
+            "end": 5.04
+          },
+          {
+            "word": "footage",
+            "start": 5.04,
+            "end": 5.34
+          },
+          {
+            "word": "from",
+            "start": 5.34,
+            "end": 5.64
+          }
+        ],
+        "start": 5.0,
+        "end": 5.64
+      },
+      {
+        "words": [
+          {
+            "word": "radio",
+            "start": 5.64,
+            "end": 6.02
+          },
+          {
+            "word": "stations",
+            "start": 6.02,
+            "end": 6.52
+          },
+          {
+            "word": "showed",
+            "start": 6.52,
+            "end": 7.1
+          }
+        ],
+        "start": 5.64,
+        "end": 7.1
+      },
+      {
+        "words": [
+          {
+            "word": "engineers",
+            "start": 7.1,
+            "end": 7.68
+          },
+          {
+            "word": "aging",
+            "start": 7.68,
+            "end": 8.14
+          },
+          {
+            "word": "in",
+            "start": 8.14,
+            "end": 8.46
+          }
+        ],
+        "start": 7.1,
+        "end": 8.46
+      },
+      {
+        "words": [
+          {
+            "word": "reverse",
+            "start": 8.46,
+            "end": 8.8
+          }
+        ],
+        "start": 8.46,
+        "end": 8.8
+      },
+      {
+        "words": [
+          {
+            "word": "their",
+            "start": 9.56,
+            "end": 9.76
+          },
+          {
+            "word": "movements",
+            "start": 9.76,
+            "end": 10.06
+          },
+          {
+            "word": "rewinding",
+            "start": 10.06,
+            "end": 10.66
+          }
+        ],
+        "start": 9.56,
+        "end": 10.66
+      },
+      {
+        "words": [
+          {
+            "word": "like",
+            "start": 10.66,
+            "end": 11.02
+          },
+          {
+            "word": "old",
+            "start": 11.02,
+            "end": 11.38
+          },
+          {
+            "word": "film",
+            "start": 11.38,
+            "end": 11.74
+          }
+        ],
+        "start": 10.66,
+        "end": 11.74
+      },
+      {
+        "words": [
+          {
+            "word": "stock",
+            "start": 11.74,
+            "end": 12.14
+          }
+        ],
+        "start": 11.74,
+        "end": 12.14
+      },
+      {
+        "words": [
+          {
+            "word": "The",
+            "start": 12.62,
+            "end": 13.04
+          },
+          {
+            "word": "music",
+            "start": 13.04,
+            "end": 13.22
+          },
+          {
+            "word": "lasted",
+            "start": 13.22,
+            "end": 13.62
+          }
+        ],
+        "start": 12.62,
+        "end": 13.62
+      },
+      {
+        "words": [
+          {
+            "word": "exactly",
+            "start": 13.62,
+            "end": 14.22
+          },
+          {
+            "word": "14",
+            "start": 14.22,
+            "end": 14.88
+          },
+          {
+            "word": "minutes",
+            "start": 14.88,
+            "end": 15.16
+          }
+        ],
+        "start": 13.62,
+        "end": 15.16
+      },
+      {
+        "words": [
+          {
+            "word": "in",
+            "start": 15.16,
+            "end": 15.36
+          },
+          {
+            "word": "our",
+            "start": 15.36,
+            "end": 15.6
+          },
+          {
+            "word": "timeline",
+            "start": 15.6,
+            "end": 16.04
+          }
+        ],
+        "start": 15.16,
+        "end": 16.04
+      }
+    ]
+  },
+  {
+    "blockId": 3,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "Three",
+            "start": 0.0,
+            "end": 0.5
+          },
+          {
+            "word": "technicians",
+            "start": 0.5,
+            "end": 0.96
+          },
+          {
+            "word": "who",
+            "start": 0.96,
+            "end": 1.34
+          }
+        ],
+        "start": 0.0,
+        "end": 1.34
+      },
+      {
+        "words": [
+          {
+            "word": "listened",
+            "start": 1.34,
+            "end": 1.66
+          },
+          {
+            "word": "to",
+            "start": 1.66,
+            "end": 1.98
+          },
+          {
+            "word": "the",
+            "start": 1.98,
+            "end": 2.24
+          }
+        ],
+        "start": 1.34,
+        "end": 2.24
+      },
+      {
+        "words": [
+          {
+            "word": "complete",
+            "start": 2.24,
+            "end": 2.56
+          },
+          {
+            "word": "transmission",
+            "start": 2.56,
+            "end": 3.26
+          },
+          {
+            "word": "never",
+            "start": 3.26,
+            "end": 3.92
+          }
+        ],
+        "start": 2.24,
+        "end": 3.92
+      },
+      {
+        "words": [
+          {
+            "word": "returned",
+            "start": 3.92,
+            "end": 4.46
+          },
+          {
+            "word": "to",
+            "start": 4.46,
+            "end": 4.66
+          },
+          {
+            "word": "their",
+            "start": 4.66,
+            "end": 4.88
+          }
+        ],
+        "start": 3.92,
+        "end": 4.88
+      },
+      {
+        "words": [
+          {
+            "word": "present",
+            "start": 4.88,
+            "end": 5.28
+          },
+          {
+            "word": "timeline",
+            "start": 5.28,
+            "end": 5.9
+          }
+        ],
+        "start": 4.88,
+        "end": 5.9
+      },
+      {
+        "words": [
+          {
+            "word": "Their",
+            "start": 6.64,
+            "end": 6.82
+          },
+          {
+            "word": "bodies",
+            "start": 6.82,
+            "end": 7.2
+          },
+          {
+            "word": "remained",
+            "start": 7.2,
+            "end": 7.64
+          }
+        ],
+        "start": 6.64,
+        "end": 7.64
+      },
+      {
+        "words": [
+          {
+            "word": "at",
+            "start": 7.64,
+            "end": 7.84
+          },
+          {
+            "word": "their",
+            "start": 7.84,
+            "end": 8.08
+          },
+          {
+            "word": "stations",
+            "start": 8.08,
+            "end": 8.62
+          }
+        ],
+        "start": 7.64,
+        "end": 8.62
+      },
+      {
+        "words": [
+          {
+            "word": "breathing",
+            "start": 9.36,
+            "end": 9.36
+          }
+        ],
+        "start": 9.36,
+        "end": 9.36
+      },
+      {
+        "words": [
+          {
+            "word": "but",
+            "start": 9.84,
+            "end": 10.06
+          },
+          {
+            "word": "their",
+            "start": 10.06,
+            "end": 10.3
+          },
+          {
+            "word": "minds",
+            "start": 10.3,
+            "end": 10.66
+          }
+        ],
+        "start": 9.84,
+        "end": 10.66
+      },
+      {
+        "words": [
+          {
+            "word": "had",
+            "start": 10.66,
+            "end": 11.1
+          },
+          {
+            "word": "traveled",
+            "start": 11.1,
+            "end": 11.3
+          },
+          {
+            "word": "backwards",
+            "start": 11.3,
+            "end": 11.88
+          }
+        ],
+        "start": 10.66,
+        "end": 11.88
+      },
+      {
+        "words": [
+          {
+            "word": "through",
+            "start": 11.88,
+            "end": 12.14
+          },
+          {
+            "word": "their",
+            "start": 12.14,
+            "end": 12.38
+          },
+          {
+            "word": "own",
+            "start": 12.38,
+            "end": 12.76
+          }
+        ],
+        "start": 11.88,
+        "end": 12.76
+      },
+      {
+        "words": [
+          {
+            "word": "histories",
+            "start": 12.76,
+            "end": 13.18
+          }
+        ],
+        "start": 12.76,
+        "end": 13.18
+      },
+      {
+        "words": [
+          {
+            "word": "They",
+            "start": 13.86,
+            "end": 14.04
+          },
+          {
+            "word": "spoke",
+            "start": 14.04,
+            "end": 14.34
+          },
+          {
+            "word": "only",
+            "start": 14.34,
+            "end": 14.78
+          }
+        ],
+        "start": 13.86,
+        "end": 14.78
+      },
+      {
+        "words": [
+          {
+            "word": "in",
+            "start": 14.78,
+            "end": 15.24
+          },
+          {
+            "word": "reverse",
+            "start": 15.24,
+            "end": 15.54
+          },
+          {
+            "word": "sentences",
+            "start": 15.54,
+            "end": 16.14
+          }
+        ],
+        "start": 14.78,
+        "end": 16.14
+      }
+    ]
+  },
+  {
+    "blockId": 4,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "Every",
+            "start": 0.0,
+            "end": 0.36
+          },
+          {
+            "word": "recording",
+            "start": 0.36,
+            "end": 0.74
+          },
+          {
+            "word": "device",
+            "start": 0.74,
+            "end": 1.16
+          }
+        ],
+        "start": 0.0,
+        "end": 1.16
+      },
+      {
+        "words": [
+          {
+            "word": "that",
+            "start": 1.16,
+            "end": 1.62
+          },
+          {
+            "word": "captured",
+            "start": 1.62,
+            "end": 1.78
+          },
+          {
+            "word": "the",
+            "start": 1.78,
+            "end": 2.06
+          }
+        ],
+        "start": 1.16,
+        "end": 2.06
+      },
+      {
+        "words": [
+          {
+            "word": "broadcast",
+            "start": 2.06,
+            "end": 2.62
+          },
+          {
+            "word": "was",
+            "start": 2.62,
+            "end": 2.92
+          },
+          {
+            "word": "found",
+            "start": 2.92,
+            "end": 3.32
+          }
+        ],
+        "start": 2.06,
+        "end": 3.32
+      },
+      {
+        "words": [
+          {
+            "word": "wiped",
+            "start": 3.32,
+            "end": 3.6
+          },
+          {
+            "word": "clean",
+            "start": 3.6,
+            "end": 4.14
+          },
+          {
+            "word": "the",
+            "start": 4.14,
+            "end": 4.46
+          }
+        ],
+        "start": 3.32,
+        "end": 4.46
+      },
+      {
+        "words": [
+          {
+            "word": "next",
+            "start": 4.46,
+            "end": 4.7
+          },
+          {
+            "word": "morning",
+            "start": 4.7,
+            "end": 5.0
+          }
+        ],
+        "start": 4.46,
+        "end": 5.0
+      },
+      {
+        "words": [
+          {
+            "word": "The",
+            "start": 5.66,
+            "end": 5.88
+          },
+          {
+            "word": "only",
+            "start": 5.88,
+            "end": 6.16
+          },
+          {
+            "word": "evidence",
+            "start": 6.16,
+            "end": 6.52
+          }
+        ],
+        "start": 5.66,
+        "end": 6.52
+      },
+      {
+        "words": [
+          {
+            "word": "was",
+            "start": 6.52,
+            "end": 6.82
+          },
+          {
+            "word": "the",
+            "start": 6.82,
+            "end": 7.14
+          },
+          {
+            "word": "memory",
+            "start": 7.14,
+            "end": 7.28
+          }
+        ],
+        "start": 6.52,
+        "end": 7.28
+      },
+      {
+        "words": [
+          {
+            "word": "loss",
+            "start": 7.28,
+            "end": 7.84
+          },
+          {
+            "word": "experienced",
+            "start": 7.84,
+            "end": 8.68
+          },
+          {
+            "word": "by",
+            "start": 8.68,
+            "end": 9.06
+          }
+        ],
+        "start": 7.28,
+        "end": 9.06
+      },
+      {
+        "words": [
+          {
+            "word": "every",
+            "start": 9.06,
+            "end": 9.46
+          },
+          {
+            "word": "witness",
+            "start": 9.46,
+            "end": 9.9
+          }
+        ],
+        "start": 9.06,
+        "end": 9.9
+      },
+      {
+        "words": [
+          {
+            "word": "They",
+            "start": 10.74,
+            "end": 10.9
+          },
+          {
+            "word": "remembered",
+            "start": 10.9,
+            "end": 11.26
+          },
+          {
+            "word": "forgetting",
+            "start": 11.26,
+            "end": 11.74
+          }
+        ],
+        "start": 10.74,
+        "end": 11.74
+      },
+      {
+        "words": [
+          {
+            "word": "something",
+            "start": 11.74,
+            "end": 12.18
+          },
+          {
+            "word": "important",
+            "start": 12.18,
+            "end": 12.68
+          },
+          {
+            "word": "about",
+            "start": 12.68,
+            "end": 13.02
+          }
+        ],
+        "start": 11.74,
+        "end": 13.02
+      },
+      {
+        "words": [
+          {
+            "word": "music",
+            "start": 13.02,
+            "end": 13.32
+          }
+        ],
+        "start": 13.02,
+        "end": 13.32
+      }
+    ]
+  },
+  {
+    "blockId": 5,
+    "captionGroups": [
+      {
+        "words": [
+          {
+            "word": "The",
+            "start": 0.0,
+            "end": 0.24
+          },
+          {
+            "word": "station",
+            "start": 0.24,
+            "end": 0.52
+          },
+          {
+            "word": "broadcasts",
+            "start": 0.52,
+            "end": 1.54
+          }
+        ],
+        "start": 0.0,
+        "end": 1.54
+      },
+      {
+        "words": [
+          {
+            "word": "every",
+            "start": 1.54,
+            "end": 1.82
+          },
+          {
+            "word": "17",
+            "start": 1.82,
+            "end": 2.42
+          },
+          {
+            "word": "months",
+            "start": 2.42,
+            "end": 2.78
+          }
+        ],
+        "start": 1.54,
+        "end": 2.78
+      },
+      {
+        "words": [
+          {
+            "word": "from",
+            "start": 2.78,
+            "end": 3.14
+          },
+          {
+            "word": "coordinates",
+            "start": 3.14,
+            "end": 3.6
+          },
+          {
+            "word": "that",
+            "start": 3.6,
+            "end": 3.98
+          }
+        ],
+        "start": 2.78,
+        "end": 3.98
+      },
+      {
+        "words": [
+          {
+            "word": "don't",
+            "start": 3.98,
+            "end": 4.22
+          },
+          {
+            "word": "exist",
+            "start": 4.22,
+            "end": 4.74
+          }
+        ],
+        "start": 3.98,
+        "end": 4.74
+      },
+      {
+        "words": [
+          {
+            "word": "We've",
+            "start": 5.42,
+            "end": 5.68
+          },
+          {
+            "word": "learned",
+            "start": 5.68,
+            "end": 5.84
+          },
+          {
+            "word": "to",
+            "start": 5.84,
+            "end": 6.66
+          }
+        ],
+        "start": 5.42,
+        "end": 6.66
+      },
+      {
+        "words": [
+          {
+            "word": "recognize",
+            "start": 6.66,
+            "end": 6.66
+          },
+          {
+            "word": "the",
+            "start": 6.66,
+            "end": 6.92
+          },
+          {
+            "word": "signs",
+            "start": 6.92,
+            "end": 7.3
+          }
+        ],
+        "start": 6.66,
+        "end": 7.3
+      },
+      {
+        "words": [
+          {
+            "word": "and",
+            "start": 7.3,
+            "end": 7.72
+          },
+          {
+            "word": "the",
+            "start": 7.72,
+            "end": 7.96
+          },
+          {
+            "word": "Department",
+            "start": 7.96,
+            "end": 8.26
+          }
+        ],
+        "start": 7.3,
+        "end": 8.26
+      },
+      {
+        "words": [
+          {
+            "word": "of",
+            "start": 8.26,
+            "end": 8.42
+          },
+          {
+            "word": "the",
+            "start": 8.42,
+            "end": 8.94
+          },
+          {
+            "word": "Unknown",
+            "start": 8.94,
+            "end": 8.94
+          }
+        ],
+        "start": 8.26,
+        "end": 8.94
+      },
+      {
+        "words": [
+          {
+            "word": "stops",
+            "start": 8.94,
+            "end": 9.38
+          },
+          {
+            "word": "listening",
+            "start": 9.38,
+            "end": 9.8
+          },
+          {
+            "word": "when",
+            "start": 9.8,
+            "end": 10.02
+          }
+        ],
+        "start": 8.94,
+        "end": 10.02
+      },
+      {
+        "words": [
+          {
+            "word": "the",
+            "start": 10.02,
+            "end": 10.34
+          },
+          {
+            "word": "music",
+            "start": 10.34,
+            "end": 10.54
+          },
+          {
+            "word": "starts",
+            "start": 10.54,
+            "end": 10.86
+          }
+        ],
+        "start": 10.02,
+        "end": 10.86
+      },
+      {
+        "words": [
+          {
+            "word": "playing",
+            "start": 10.86,
+            "end": 11.18
+          },
+          {
+            "word": "forward",
+            "start": 11.18,
+            "end": 11.64
+          }
+        ],
+        "start": 10.86,
+        "end": 11.64
+      }
+    ]
+  }
+]

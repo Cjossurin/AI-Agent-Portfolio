@@ -1,0 +1,1186 @@
+{
+  "caseId": "the_oakville_blobs",
+  "sequences": [
+    {
+      "blockId": 1,
+      "motionType": "ken_burns_zoom_in",
+      "imagePath": "assets/case_the_oakville_blobs/1_image.jpg",
+      "audioPath": "assets/case_the_oakville_blobs/1_audio.mp3"
+    },
+    {
+      "blockId": 2,
+      "motionType": "ken_burns_pan_right",
+      "imagePath": "assets/case_the_oakville_blobs/2_image.jpg",
+      "audioPath": "assets/case_the_oakville_blobs/2_audio.mp3"
+    },
+    {
+      "blockId": 3,
+      "motionType": "ken_burns_slow_push",
+      "imagePath": "assets/case_the_oakville_blobs/3_image.jpg",
+      "audioPath": "assets/case_the_oakville_blobs/3_audio.mp3"
+    },
+    {
+      "blockId": 4,
+      "motionType": "ken_burns_pan_left",
+      "imagePath": "assets/case_the_oakville_blobs/4_image.jpg",
+      "audioPath": "assets/case_the_oakville_blobs/4_audio.mp3"
+    },
+    {
+      "blockId": 5,
+      "motionType": "kling_i2v_scare",
+      "imagePath": "assets/case_the_oakville_blobs/5_image.jpg",
+      "audioPath": "assets/case_the_oakville_blobs/5_audio.mp3",
+      "videoPath": "assets/case_the_oakville_blobs/5_scare.mp4"
+    }
+  ],
+  "ambientLayers": {
+    "droneAudio": "assets/shared/drone_audio.mp3",
+    "vhsStatic": "assets/shared/vhs_static.mp3"
+  },
+  "captions": [
+    {
+      "blockId": 1,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Department",
+              "start": 0.0,
+              "end": 0.62
+            },
+            {
+              "word": "of",
+              "start": 0.62,
+              "end": 0.84
+            },
+            {
+              "word": "the",
+              "start": 0.84,
+              "end": 1.16
+            }
+          ],
+          "start": 0.0,
+          "end": 1.16
+        },
+        {
+          "words": [
+            {
+              "word": "Unknown",
+              "start": 1.16,
+              "end": 1.48
+            },
+            {
+              "word": "Case",
+              "start": 2.16,
+              "end": 2.28
+            },
+            {
+              "word": "File",
+              "start": 2.28,
+              "end": 2.56
+            }
+          ],
+          "start": 1.16,
+          "end": 2.56
+        },
+        {
+          "words": [
+            {
+              "word": "7794",
+              "start": 2.56,
+              "end": 3.9
+            },
+            {
+              "word": "On",
+              "start": 4.84,
+              "end": 5.14
+            },
+            {
+              "word": "August",
+              "start": 5.14,
+              "end": 5.38
+            }
+          ],
+          "start": 2.56,
+          "end": 5.38
+        },
+        {
+          "words": [
+            {
+              "word": "7th",
+              "start": 5.38,
+              "end": 6.0
+            },
+            {
+              "word": "1994",
+              "start": 6.0,
+              "end": 6.92
+            },
+            {
+              "word": "the",
+              "start": 6.92,
+              "end": 7.56
+            }
+          ],
+          "start": 5.38,
+          "end": 7.56
+        },
+        {
+          "words": [
+            {
+              "word": "sky",
+              "start": 7.56,
+              "end": 7.78
+            },
+            {
+              "word": "above",
+              "start": 7.78,
+              "end": 8.12
+            },
+            {
+              "word": "Oakville",
+              "start": 8.12,
+              "end": 8.56
+            }
+          ],
+          "start": 7.56,
+          "end": 8.56
+        },
+        {
+          "words": [
+            {
+              "word": "Washington",
+              "start": 8.86,
+              "end": 9.1
+            },
+            {
+              "word": "began",
+              "start": 9.1,
+              "end": 9.44
+            },
+            {
+              "word": "to",
+              "start": 9.44,
+              "end": 9.82
+            }
+          ],
+          "start": 8.86,
+          "end": 9.82
+        },
+        {
+          "words": [
+            {
+              "word": "rain",
+              "start": 9.82,
+              "end": 9.94
+            },
+            {
+              "word": "something",
+              "start": 9.94,
+              "end": 10.36
+            },
+            {
+              "word": "that",
+              "start": 10.36,
+              "end": 10.56
+            }
+          ],
+          "start": 9.82,
+          "end": 10.56
+        },
+        {
+          "words": [
+            {
+              "word": "was",
+              "start": 10.56,
+              "end": 10.76
+            },
+            {
+              "word": "not",
+              "start": 10.76,
+              "end": 11.04
+            },
+            {
+              "word": "water",
+              "start": 11.04,
+              "end": 11.38
+            }
+          ],
+          "start": 10.56,
+          "end": 11.38
+        },
+        {
+          "words": [
+            {
+              "word": "something",
+              "start": 12.1,
+              "end": 12.2
+            },
+            {
+              "word": "that",
+              "start": 12.2,
+              "end": 12.5
+            },
+            {
+              "word": "should",
+              "start": 12.5,
+              "end": 12.64
+            }
+          ],
+          "start": 12.1,
+          "end": 12.64
+        },
+        {
+          "words": [
+            {
+              "word": "not",
+              "start": 12.64,
+              "end": 13.0
+            },
+            {
+              "word": "exist",
+              "start": 13.0,
+              "end": 13.4
+            }
+          ],
+          "start": 12.64,
+          "end": 13.4
+        }
+      ]
+    },
+    {
+      "blockId": 2,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "For",
+              "start": 0.0,
+              "end": 0.34
+            },
+            {
+              "word": "several",
+              "start": 0.34,
+              "end": 0.66
+            },
+            {
+              "word": "hours",
+              "start": 0.66,
+              "end": 1.22
+            }
+          ],
+          "start": 0.0,
+          "end": 1.22
+        },
+        {
+          "words": [
+            {
+              "word": "gelatinous",
+              "start": 1.68,
+              "end": 2.24
+            },
+            {
+              "word": "masses",
+              "start": 2.24,
+              "end": 2.58
+            },
+            {
+              "word": "fell",
+              "start": 2.58,
+              "end": 2.94
+            }
+          ],
+          "start": 1.68,
+          "end": 2.94
+        },
+        {
+          "words": [
+            {
+              "word": "across",
+              "start": 2.94,
+              "end": 3.28
+            },
+            {
+              "word": "20",
+              "start": 3.28,
+              "end": 3.76
+            },
+            {
+              "word": "square",
+              "start": 3.76,
+              "end": 4.16
+            }
+          ],
+          "start": 2.94,
+          "end": 4.16
+        },
+        {
+          "words": [
+            {
+              "word": "miles",
+              "start": 4.16,
+              "end": 4.66
+            },
+            {
+              "word": "Dime",
+              "start": 5.46,
+              "end": 5.56
+            },
+            {
+              "word": "sized",
+              "start": 5.56,
+              "end": 6.26
+            }
+          ],
+          "start": 4.16,
+          "end": 6.26
+        },
+        {
+          "words": [
+            {
+              "word": "translucent",
+              "start": 7.2,
+              "end": 7.2
+            },
+            {
+              "word": "residents",
+              "start": 7.88,
+              "end": 8.16
+            },
+            {
+              "word": "collected",
+              "start": 8.16,
+              "end": 8.58
+            }
+          ],
+          "start": 7.2,
+          "end": 8.58
+        },
+        {
+          "words": [
+            {
+              "word": "them",
+              "start": 8.58,
+              "end": 8.9
+            },
+            {
+              "word": "in",
+              "start": 8.9,
+              "end": 9.52
+            },
+            {
+              "word": "jars",
+              "start": 9.52,
+              "end": 9.52
+            }
+          ],
+          "start": 8.58,
+          "end": 9.52
+        },
+        {
+          "words": [
+            {
+              "word": "believing",
+              "start": 9.78,
+              "end": 9.98
+            },
+            {
+              "word": "them",
+              "start": 9.98,
+              "end": 10.3
+            },
+            {
+              "word": "to",
+              "start": 10.3,
+              "end": 10.48
+            }
+          ],
+          "start": 9.78,
+          "end": 10.48
+        },
+        {
+          "words": [
+            {
+              "word": "be",
+              "start": 10.48,
+              "end": 10.74
+            },
+            {
+              "word": "some",
+              "start": 10.74,
+              "end": 10.96
+            },
+            {
+              "word": "form",
+              "start": 10.96,
+              "end": 11.24
+            }
+          ],
+          "start": 10.48,
+          "end": 11.24
+        },
+        {
+          "words": [
+            {
+              "word": "of",
+              "start": 11.24,
+              "end": 11.66
+            },
+            {
+              "word": "atmospheric",
+              "start": 11.66,
+              "end": 12.2
+            },
+            {
+              "word": "phenomenon",
+              "start": 12.2,
+              "end": 12.82
+            }
+          ],
+          "start": 11.24,
+          "end": 12.82
+        },
+        {
+          "words": [
+            {
+              "word": "They",
+              "start": 13.76,
+              "end": 13.92
+            },
+            {
+              "word": "were",
+              "start": 13.92,
+              "end": 14.2
+            },
+            {
+              "word": "incorrect",
+              "start": 14.2,
+              "end": 14.74
+            }
+          ],
+          "start": 13.76,
+          "end": 14.74
+        }
+      ]
+    },
+    {
+      "blockId": 3,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Laboratory",
+              "start": 0.0,
+              "end": 0.64
+            },
+            {
+              "word": "analysis",
+              "start": 0.64,
+              "end": 1.18
+            },
+            {
+              "word": "identified",
+              "start": 1.18,
+              "end": 2.04
+            }
+          ],
+          "start": 0.0,
+          "end": 2.04
+        },
+        {
+          "words": [
+            {
+              "word": "human",
+              "start": 2.04,
+              "end": 2.4
+            },
+            {
+              "word": "white",
+              "start": 2.4,
+              "end": 2.72
+            },
+            {
+              "word": "blood",
+              "start": 2.72,
+              "end": 3.04
+            }
+          ],
+          "start": 2.04,
+          "end": 3.04
+        },
+        {
+          "words": [
+            {
+              "word": "cells",
+              "start": 3.04,
+              "end": 3.34
+            },
+            {
+              "word": "within",
+              "start": 3.34,
+              "end": 3.66
+            },
+            {
+              "word": "the",
+              "start": 3.66,
+              "end": 3.94
+            }
+          ],
+          "start": 3.04,
+          "end": 3.94
+        },
+        {
+          "words": [
+            {
+              "word": "specimens",
+              "start": 3.94,
+              "end": 4.34
+            },
+            {
+              "word": "Human",
+              "start": 5.28,
+              "end": 5.34
+            },
+            {
+              "word": "cells",
+              "start": 5.34,
+              "end": 5.98
+            }
+          ],
+          "start": 3.94,
+          "end": 5.98
+        },
+        {
+          "words": [
+            {
+              "word": "falling",
+              "start": 5.98,
+              "end": 6.78
+            },
+            {
+              "word": "from",
+              "start": 6.78,
+              "end": 7.02
+            },
+            {
+              "word": "the",
+              "start": 7.02,
+              "end": 7.72
+            }
+          ],
+          "start": 5.98,
+          "end": 7.72
+        },
+        {
+          "words": [
+            {
+              "word": "sky",
+              "start": 7.72,
+              "end": 7.96
+            },
+            {
+              "word": "along",
+              "start": 8.14,
+              "end": 8.36
+            },
+            {
+              "word": "with",
+              "start": 8.36,
+              "end": 8.98
+            }
+          ],
+          "start": 7.72,
+          "end": 8.98
+        },
+        {
+          "words": [
+            {
+              "word": "bacteria",
+              "start": 8.98,
+              "end": 9.1
+            },
+            {
+              "word": "strains",
+              "start": 9.1,
+              "end": 9.66
+            },
+            {
+              "word": "including",
+              "start": 9.98,
+              "end": 10.28
+            }
+          ],
+          "start": 8.98,
+          "end": 10.28
+        },
+        {
+          "words": [
+            {
+              "word": "Pseudomonas",
+              "start": 10.28,
+              "end": 10.88
+            },
+            {
+              "word": "fluorescens",
+              "start": 10.88,
+              "end": 11.6
+            },
+            {
+              "word": "The",
+              "start": 12.18,
+              "end": 12.42
+            }
+          ],
+          "start": 10.28,
+          "end": 12.42
+        },
+        {
+          "words": [
+            {
+              "word": "precipitation",
+              "start": 12.42,
+              "end": 12.86
+            },
+            {
+              "word": "contained",
+              "start": 12.86,
+              "end": 13.48
+            },
+            {
+              "word": "biological",
+              "start": 13.48,
+              "end": 14.22
+            }
+          ],
+          "start": 12.42,
+          "end": 14.22
+        },
+        {
+          "words": [
+            {
+              "word": "material",
+              "start": 14.22,
+              "end": 14.78
+            },
+            {
+              "word": "from",
+              "start": 14.78,
+              "end": 15.34
+            },
+            {
+              "word": "sources",
+              "start": 15.34,
+              "end": 15.74
+            }
+          ],
+          "start": 14.22,
+          "end": 15.74
+        },
+        {
+          "words": [
+            {
+              "word": "that",
+              "start": 15.74,
+              "end": 16.14
+            },
+            {
+              "word": "remain",
+              "start": 16.14,
+              "end": 16.4
+            },
+            {
+              "word": "unidentified",
+              "start": 16.4,
+              "end": 17.16
+            }
+          ],
+          "start": 15.74,
+          "end": 17.16
+        }
+      ]
+    },
+    {
+      "blockId": 4,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "Sunny",
+              "start": 0.0,
+              "end": 0.56
+            },
+            {
+              "word": "Lacy",
+              "start": 0.56,
+              "end": 0.62
+            },
+            {
+              "word": "made",
+              "start": 0.62,
+              "end": 1.02
+            }
+          ],
+          "start": 0.0,
+          "end": 1.02
+        },
+        {
+          "words": [
+            {
+              "word": "direct",
+              "start": 1.02,
+              "end": 1.5
+            },
+            {
+              "word": "contact",
+              "start": 1.5,
+              "end": 2.02
+            },
+            {
+              "word": "with",
+              "start": 2.02,
+              "end": 2.3
+            }
+          ],
+          "start": 1.02,
+          "end": 2.3
+        },
+        {
+          "words": [
+            {
+              "word": "one",
+              "start": 2.3,
+              "end": 2.48
+            },
+            {
+              "word": "of",
+              "start": 2.48,
+              "end": 2.62
+            },
+            {
+              "word": "the",
+              "start": 2.62,
+              "end": 2.94
+            }
+          ],
+          "start": 2.3,
+          "end": 2.94
+        },
+        {
+          "words": [
+            {
+              "word": "fallen",
+              "start": 2.94,
+              "end": 3.1
+            },
+            {
+              "word": "masses",
+              "start": 3.1,
+              "end": 3.7
+            },
+            {
+              "word": "Within",
+              "start": 4.68,
+              "end": 4.68
+            }
+          ],
+          "start": 2.94,
+          "end": 4.68
+        },
+        {
+          "words": [
+            {
+              "word": "hours",
+              "start": 4.68,
+              "end": 5.26
+            },
+            {
+              "word": "she",
+              "start": 5.66,
+              "end": 5.9
+            },
+            {
+              "word": "experienced",
+              "start": 5.9,
+              "end": 6.6
+            }
+          ],
+          "start": 4.68,
+          "end": 6.6
+        },
+        {
+          "words": [
+            {
+              "word": "severe",
+              "start": 6.6,
+              "end": 7.26
+            },
+            {
+              "word": "nausea",
+              "start": 7.26,
+              "end": 8.48
+            },
+            {
+              "word": "Flu",
+              "start": 9.12,
+              "end": 9.12
+            }
+          ],
+          "start": 6.6,
+          "end": 9.12
+        },
+        {
+          "words": [
+            {
+              "word": "like",
+              "start": 9.12,
+              "end": 9.56
+            },
+            {
+              "word": "symptoms",
+              "start": 9.56,
+              "end": 10.04
+            },
+            {
+              "word": "persisted",
+              "start": 10.04,
+              "end": 10.82
+            }
+          ],
+          "start": 9.12,
+          "end": 10.82
+        },
+        {
+          "words": [
+            {
+              "word": "for",
+              "start": 10.82,
+              "end": 11.06
+            },
+            {
+              "word": "days",
+              "start": 11.06,
+              "end": 11.5
+            },
+            {
+              "word": "Her",
+              "start": 12.18,
+              "end": 12.34
+            }
+          ],
+          "start": 10.82,
+          "end": 12.34
+        },
+        {
+          "words": [
+            {
+              "word": "body",
+              "start": 12.34,
+              "end": 12.56
+            },
+            {
+              "word": "was",
+              "start": 12.56,
+              "end": 12.94
+            },
+            {
+              "word": "rejecting",
+              "start": 12.94,
+              "end": 13.28
+            }
+          ],
+          "start": 12.34,
+          "end": 13.28
+        },
+        {
+          "words": [
+            {
+              "word": "something",
+              "start": 13.28,
+              "end": 13.78
+            },
+            {
+              "word": "it",
+              "start": 13.78,
+              "end": 14.14
+            },
+            {
+              "word": "recognized",
+              "start": 14.14,
+              "end": 14.76
+            }
+          ],
+          "start": 13.28,
+          "end": 14.76
+        },
+        {
+          "words": [
+            {
+              "word": "something",
+              "start": 15.86,
+              "end": 15.92
+            },
+            {
+              "word": "it",
+              "start": 15.92,
+              "end": 16.62
+            },
+            {
+              "word": "knew",
+              "start": 16.62,
+              "end": 16.62
+            }
+          ],
+          "start": 15.86,
+          "end": 16.62
+        },
+        {
+          "words": [
+            {
+              "word": "should",
+              "start": 16.62,
+              "end": 17.0
+            },
+            {
+              "word": "not",
+              "start": 17.0,
+              "end": 17.24
+            },
+            {
+              "word": "be",
+              "start": 17.24,
+              "end": 17.82
+            }
+          ],
+          "start": 16.62,
+          "end": 17.82
+        },
+        {
+          "words": [
+            {
+              "word": "falling",
+              "start": 17.82,
+              "end": 17.82
+            },
+            {
+              "word": "from",
+              "start": 17.82,
+              "end": 18.22
+            },
+            {
+              "word": "above",
+              "start": 18.22,
+              "end": 18.56
+            }
+          ],
+          "start": 17.82,
+          "end": 18.56
+        }
+      ]
+    },
+    {
+      "blockId": 5,
+      "captionGroups": [
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 0.0,
+              "end": 0.26
+            },
+            {
+              "word": "source",
+              "start": 0.26,
+              "end": 0.52
+            },
+            {
+              "word": "of",
+              "start": 0.52,
+              "end": 0.76
+            }
+          ],
+          "start": 0.0,
+          "end": 0.76
+        },
+        {
+          "words": [
+            {
+              "word": "the",
+              "start": 0.76,
+              "end": 0.92
+            },
+            {
+              "word": "organic",
+              "start": 0.92,
+              "end": 1.34
+            },
+            {
+              "word": "precipitation",
+              "start": 1.34,
+              "end": 1.82
+            }
+          ],
+          "start": 0.76,
+          "end": 1.82
+        },
+        {
+          "words": [
+            {
+              "word": "was",
+              "start": 1.82,
+              "end": 2.4
+            },
+            {
+              "word": "never",
+              "start": 2.4,
+              "end": 2.78
+            },
+            {
+              "word": "determined",
+              "start": 2.78,
+              "end": 3.2
+            }
+          ],
+          "start": 1.82,
+          "end": 3.2
+        },
+        {
+          "words": [
+            {
+              "word": "The",
+              "start": 3.8,
+              "end": 3.86
+            },
+            {
+              "word": "mechanism",
+              "start": 3.86,
+              "end": 4.28
+            },
+            {
+              "word": "of",
+              "start": 4.28,
+              "end": 4.72
+            }
+          ],
+          "start": 3.8,
+          "end": 4.72
+        },
+        {
+          "words": [
+            {
+              "word": "atmospheric",
+              "start": 4.72,
+              "end": 5.16
+            },
+            {
+              "word": "deposition",
+              "start": 5.16,
+              "end": 5.7
+            },
+            {
+              "word": "remains",
+              "start": 5.7,
+              "end": 6.22
+            }
+          ],
+          "start": 4.72,
+          "end": 6.22
+        },
+        {
+          "words": [
+            {
+              "word": "without",
+              "start": 6.22,
+              "end": 6.58
+            },
+            {
+              "word": "explanation",
+              "start": 6.58,
+              "end": 7.24
+            },
+            {
+              "word": "This",
+              "start": 7.94,
+              "end": 8.02
+            }
+          ],
+          "start": 6.22,
+          "end": 8.02
+        },
+        {
+          "words": [
+            {
+              "word": "file",
+              "start": 8.02,
+              "end": 8.34
+            },
+            {
+              "word": "joins",
+              "start": 8.34,
+              "end": 8.78
+            },
+            {
+              "word": "17",
+              "start": 8.78,
+              "end": 9.52
+            }
+          ],
+          "start": 8.02,
+          "end": 9.52
+        },
+        {
+          "words": [
+            {
+              "word": "similar",
+              "start": 9.52,
+              "end": 10.06
+            },
+            {
+              "word": "incidents",
+              "start": 10.06,
+              "end": 10.6
+            },
+            {
+              "word": "currently",
+              "start": 10.6,
+              "end": 11.1
+            }
+          ],
+          "start": 9.52,
+          "end": 11.1
+        },
+        {
+          "words": [
+            {
+              "word": "under",
+              "start": 11.1,
+              "end": 11.5
+            },
+            {
+              "word": "review",
+              "start": 11.5,
+              "end": 11.88
+            },
+            {
+              "word": "by",
+              "start": 11.88,
+              "end": 12.16
+            }
+          ],
+          "start": 11.1,
+          "end": 12.16
+        },
+        {
+          "words": [
+            {
+              "word": "the",
+              "start": 12.16,
+              "end": 12.4
+            }
+          ],
+          "start": 12.16,
+          "end": 12.4
+        }
+      ]
+    }
+  ]
+}
