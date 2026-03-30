@@ -1,0 +1,27 @@
+name: Health Check
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # Every 15 minutes
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Check server health
+      run: |
+        response=$(curl -s -o /dev/null -w "%{http_code}" ${{ secrets.SERVER_URL }}/health)
+        if [ $response -eq 200 ]; then
+          echo "✅ Server is healthy"
+        else
+          echo "❌ Server is down (HTTP $response)"
+          exit 1
+        fi
+        
+    - name: Notify on failure
+      if: failure()
+      run: |
+        echo "Server health check failed!"
+        # Add notification logic here (Slack, email, etc.)

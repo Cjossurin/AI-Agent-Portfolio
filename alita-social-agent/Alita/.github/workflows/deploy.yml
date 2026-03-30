@@ -1,0 +1,38 @@
+name: Deploy
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Verify build
+      run: |
+        python -c "from web_app import app; print('Build OK')"
+      env:
+        ANTHROPIC_API_KEY: "sk-test-placeholder"
+        DATABASE_URL: "sqlite:///./test.db"
+        
+    - name: Deploy to Railway
+      run: |
+        # Railway auto-deploys from GitHub — this step validates the build.
+        # If you switch to manual deploys, add Railway CLI commands here:
+        # npm i -g @railway/cli && railway up
+        echo "Build validated. Railway will auto-deploy from main branch."
+      env:
+        RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}

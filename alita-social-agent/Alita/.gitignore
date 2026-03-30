@@ -1,0 +1,62 @@
+# ============================================
+# Alita AI — .gitignore
+# ============================================
+
+# Environment variables (API keys - NEVER commit!)
+.env
+*.env
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Storage folder contents (runtime data)
+storage/*
+!storage/.gitkeep
+
+# Generated runtime directories
+voice_profiles/
+client_profiles/
+logs/
+temp/
+style_references/*/tone_prefs.json
+
+# Personal data (Facebook message exports)
+raw_style_inputs/
+
+# Client-specific business documents
+knowledge_docs/
+
+# Log files
+*.log
+
+# Deploy marker
+.deploy
+
+# Metaprompt dev reference
+Metaprompt/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
