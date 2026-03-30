@@ -1,0 +1,17 @@
+# Normalize all text files to LF in the repo; Windows checkouts get CRLF
+* text=auto eol=lf
+
+# Force LF for Python source
+*.py text eol=lf
+
+# Force LF for markdown and config
+*.md text eol=lf
+*.txt text eol=lf
+*.env.example text eol=lf
+*.gitignore text eol=lf
+
+# Binary files — no line-ending conversion
+*.pdf binary
+*.docx binary
+*.png binary
+*.jpg binary

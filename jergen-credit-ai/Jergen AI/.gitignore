@@ -1,0 +1,44 @@
+# ── Secrets ───────────────────────────────────────────────────────────────────
+.env
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+*.egg
+
+# ── Runtime / generated outputs ──────────────────────────────────────────────
+# Client credit report PDFs (private)
+Input Reports/*/
+!Input Reports/.gitkeep
+
+# Generated dispute letters (private)
+Dispute Letters/*/
+!Dispute Letters/.gitkeep
+
+# ChromaDB local vector store (rebuilt via `python main.py ingest-rag`)
+chroma_db/
+
+# Audit logs (runtime output)
+audit_logs/
+!audit_logs/.gitkeep
+
+# ── Sample / test data ────────────────────────────────────────────────────────
+DisputeLetterSamples/
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+Thumbs.db
+.DS_Store
+desktop.ini
