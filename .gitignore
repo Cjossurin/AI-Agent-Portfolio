@@ -91,6 +91,15 @@ chucky-persona-bot/Chucky AI/Reference Library/**/*.jpeg
 chucky-persona-bot/Chucky AI/Reference Library/**/*.webp
 chucky-persona-bot/Chucky AI/Reference Library/**/*.gif
 
+# Proprietary prompt/knowledge corpora (private IP)
+**/Agent RAGs/
+**/Metaprompt
+alita-social-agent/Alita/faceless_video_prompts/
+alita-social-agent/Alita/image_generation_prompts/
+alita-social-agent/Alita/prompts/
+alita-social-agent/Alita/style_references/
+chucky-persona-bot/Chucky AI/Reference Library/
+
 # -----------------------------------------------------------------------------
 # Generated Media Artifacts (AI-generated output — do not commit)
 # -----------------------------------------------------------------------------

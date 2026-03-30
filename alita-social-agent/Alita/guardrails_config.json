@@ -1,0 +1,52 @@
+{
+  "max_message_length": 2000,
+  "max_word_count": 500,
+  "min_message_length": 1,
+  "max_repetition_ratio": 0.5,
+  "max_consecutive_repeats": 3,
+  "min_dictionary_word_ratio": 0.3,
+  "max_special_char_ratio": 0.5,
+  "blocked_response": "I can't process that request. Please send a clear, appropriate message and I'll be happy to help! 😊",
+  "log_blocked_requests": true,
+  "banned_patterns": [
+    "count to \\d+",
+    "repeat .* \\d+ times",
+    "say .* \\d+ times",
+    "write .* \\d+ times",
+    "list all .* from \\d+ to \\d+",
+    "generate \\d+ .*",
+    "give me \\d{3,} .*"
+  ],
+  "profanity_list": [
+    "fuck",
+    "shit",
+    "bitch",
+    "asshole",
+    "bastard",
+    "damn",
+    "cunt",
+    "dick",
+    "pussy",
+    "whore",
+    "slut",
+    "fag",
+    "nigger",
+    "nigga",
+    "retard",
+    "crap"
+  ],
+  "gibberish_patterns": [
+    "^[^a-zA-Z]*$",
+    "^(..)\\1{5,}$",
+    "^[bcdfghjklmnpqrstvwxyz]{10,}$",
+    "^[aeiou]{10,}$"
+  ],
+  "spam_indicators": [
+    "click here",
+    "buy now",
+    "free money",
+    "congratulations you won",
+    "act now",
+    "limited time offer"
+  ]
+}

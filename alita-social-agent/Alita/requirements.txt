@@ -1,0 +1,64 @@
+# For Claude API integration
+anthropic
+httpx
+python-dotenv
+openai
+fastapi
+uvicorn
+python-multipart
+requests
+qdrant-client
+pypdf
+python-docx
+pydantic
+Pillow
+numpy
+
+# Async HTTP for API calls
+aiohttp
+
+# OAuth 2.0 & Security
+cryptography
+
+# Marketing Intelligence APIs
+newsapi-python==0.2.7
+google-api-python-client==2.108.0
+tavily-python==0.3.5
+
+# Email Sending (Outbound - Marketing + Support Replies)
+# Resend: free 3K/mo, $20/mo for 50K. Best deliverability, simplest API.
+resend>=0.7.0
+
+# SMS Notifications (Escalations + High-Priority Alerts)
+twilio>=8.0.0
+
+# Gmail API (Inbound Email - Support Inbox)
+google-auth>=2.22.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+# Client Auth, Onboarding & Database
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+bcrypt==4.0.1
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.9
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+itsdangerous>=2.1.0
+# DNS MX lookup (email provider auto-detection for custom domains)
+dnspython>=2.4.0
+
+# Task Scheduling (agent trigger system)
+apscheduler>=3.10.0
+
+# FFmpeg binary bundled via Python (video assembly on Railway)
+imageio-ffmpeg>=0.4.9
+pytz>=2024.1
+
+# Two-Factor Authentication
+pyotp>=2.9.0        # TOTP (Google/Microsoft Authenticator)
+qrcode[pil]>=7.4.0  # QR code image generation for TOTP setup
+webauthn>=2.0.0     # Passkey / fingerprint / Face ID / Windows Hello (WebAuthn FIDO2)
+
+# Payments
+stripe>=7.0.0
